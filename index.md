@@ -6,7 +6,7 @@ hero:
   name: "Gruppo 2"
   text: "Pizza Delivered Quickly"
   tagline: Project Management
-  
+
   actions:
     - theme: brand
       text: Report
@@ -15,7 +15,7 @@ hero:
 
 ## Componenti del Gruppo
 
-- **Manuel Buizo**: juliomanuel.buizo@studio.unibo.it 
+- **Manuel Buizo**: juliomanuel.buizo@studio.unibo.it
 - **Alice Alfonsi**: alice.alfonsi2@studio.unibo.it
 - **Mara Pulighe**: mara.pulighe@studio.unibo.it
 - **Corrado Stortini**: corrado.stortini2@studio.unibo.it

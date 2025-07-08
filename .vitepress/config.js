@@ -2,13 +2,12 @@ import {defineConfig} from 'vitepress'
 import { withMermaid } from "vitepress-plugin-mermaid";
 
 let reportPath = '/report'
-let processPath = '/process'
 // https://vitepress.dev/reference/site-config
 
 export default withMermaid(
     defineConfig({
-        base: '/PM-Gruppo2/',
-        title: "PM-Gruppo2",
+        base: '/AthenaPlay-PM/',
+        title: "AthenaPlay-PM",
         description: "Ulisse an Train Infrastructure Similator",
         themeConfig: {
             // https://vitepress.dev/reference/default-theme-config
@@ -31,7 +30,7 @@ export default withMermaid(
             ],
 
             socialLinks: [
-                {icon: 'github', link: 'https://github.com/JBmanu/PM-Gruppo2'}
+                {icon: 'github', link: 'https://github.com/JBmanu/AthenaPlay-PM'}
             ]
         }
     })
