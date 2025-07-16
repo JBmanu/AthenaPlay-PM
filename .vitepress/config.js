@@ -18,6 +18,7 @@ export default withMermaid(
             sidebar: [
                 {text: 'Report',
                     items: [
+                        {text: "Contesto", link: `${reportPath}/0-contesto`},
                         {text: 'Process scoping meeting', link: `${reportPath}/1-process-scoping-meeting`},
                         {text: 'Valutazione proposte del committente', link: `${reportPath}/2-valutazione-proposte-committente`},
                         {text: 'Project Overview Statement', link: `${reportPath}/3-POS`},
