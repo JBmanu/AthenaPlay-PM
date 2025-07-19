@@ -1,4 +1,6 @@
-# Process Scoping Meeting
+# Scoping
+
+Per i tre process scoping meeting, 
 
 ## Desideri-Bisogni
 - Desideri:
@@ -11,4 +13,12 @@
 * NICE-TO-HAVE:
  
 ## CoS: Conditions of Satisfaction
+
+## Rischi
+
+## Finanziamenti
+
+## Risorse
+
+## Pos
 

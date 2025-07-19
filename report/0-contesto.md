@@ -27,11 +27,30 @@ con un approccio pragmatico, valorizzando al meglio le risorse disponibili, le
 competenze del team e una pianificazione attenta, con l’obiettivo di avviare
 un percorso di crescita sostenibile nel settore.
 
+## Soci/Team Fondatori
+
+I soci fondatori di AthenaStudios S.R.L.S. sono:
+
+[//]: # (table)
+
+| Nome                     | Ruolo                                                       |
+|--------------------------|-------------------------------------------------------------|
+| **Manuel Buizo**         | CEO, Project Manager, Software architecture e programmatore |
+| **Luana Mennuti**        | Game Designer, 3D artist, UI/UX Design e Programmatore      |
+| **Alessandro Ricci**     | CTO e Technical Artist                                      |
+| **Sabatino Panella**     | 2D, Character e Environment Artist                          |
+| **Matteo Manicone**      | CFO e Marketing Manager                                     |
+| **Dominic Sambucco**     | Sound Designer e Musicista                                  |
+| **Lewis Edward Cross**   | Animator e Motion Designer                                  |
+| **Vittoria Pompolani**   | Illustrator e Concept Artist                                |
+| **Alessandro la monica** | Concept Artist                                              |
+
 ## Problema/Opportunità
 
 Si elencano di seguito le problematiche e le opportunità che il progetto intende affrontare:
 
 ### Problema
+
 - Con poco capitale iniziale, è essenziale ottimizzare le risorse.
 - Senza un piano chiaro, è difficile attrarre investitori.
 - Senza un’analisi di mercato, si rischiano investimenti inefficaci e prodotti fuori target.
@@ -42,6 +61,7 @@ Si elencano di seguito le problematiche e le opportunità che il progetto intend
 - Le tecnologie moderne richiedono competenze specifiche e aggiornate.
 
 ### Opportunità
+
 - Il prodotto può distinguersi per originalità e innovazione.
 - Il networking con investitori porta risorse e visibilità.
 - Il mercato è in espansione, con nuove nicchie da esplorare e riscoprire.
@@ -50,11 +70,13 @@ Si elencano di seguito le problematiche e le opportunità che il progetto intend
 - La tecnologia può generare nuove idee e prodotti.
 
 ## Process Scoping Meeting
-Si terranno tre process scoping meeting per definire la pianificazione del progetto, analizzando 
-risorse disponibili, competenze del team, opportunità di mercato e possibili investimenti, 
+
+Si terranno tre process scoping meeting per definire la pianificazione del progetto, analizzando
+risorse disponibili, competenze del team, opportunità di mercato e possibili investimenti,
 con particolare attenzione ai diversi bisogni e ai potenziali rischi.
 
 ### Analisi:
+
 1. risorse disponibili
 2. investimenti possibili
 3. opportunità di mercato
