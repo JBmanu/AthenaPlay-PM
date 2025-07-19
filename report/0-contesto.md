@@ -27,29 +27,32 @@ con un approccio pragmatico, valorizzando al meglio le risorse disponibili, le
 competenze del team e una pianificazione attenta, con l’obiettivo di avviare
 un percorso di crescita sostenibile nel settore.
 
-## Soci/Team Fondatori
+## Soci/Team Fondatori e collaboratori
 
 I soci fondatori di AthenaStudios S.R.L.S. sono:
 
-[//]: # (table)
+| Nome                 | Ruolo                                                       |
+|----------------------|-------------------------------------------------------------|
+| **Manuel Buizo**     | CEO, Project Manager, Software architecture e programmatore |
+| **Luana Mennuti**    | Game Designer, 3D artist, UI/UX Design e Programmatore      |
+| **Alessandro Ricci** | CTO e Technical Artist                                      |
+| **Sabatino Panella** | 2D, Character e Environment Artist                          |
+| **Matteo Manicone**  | CFO e Marketing Manager                                     |
+| **Dominic Sambucco** | Sound Designer e Musicista                                  |
 
-| Nome                     | Ruolo                                                       |
-|--------------------------|-------------------------------------------------------------|
-| **Manuel Buizo**         | CEO, Project Manager, Software architecture e programmatore |
-| **Luana Mennuti**        | Game Designer, 3D artist, UI/UX Design e Programmatore      |
-| **Alessandro Ricci**     | CTO e Technical Artist                                      |
-| **Sabatino Panella**     | 2D, Character e Environment Artist                          |
-| **Matteo Manicone**      | CFO e Marketing Manager                                     |
-| **Dominic Sambucco**     | Sound Designer e Musicista                                  |
-| **Lewis Edward Cross**   | Animator e Motion Designer                                  |
-| **Vittoria Pompolani**   | Illustrator e Concept Artist                                |
-| **Alessandro la monica** | Concept Artist                                              |
+Collaborano inoltre:
 
-## Problema/Opportunità
+| Nome                     | Ruolo                        |
+|--------------------------|------------------------------|
+| **Lewis Edward Cross**   | Animator e Motion Designer   |
+| **Vittoria Pompolani**   | Illustrator e Concept Artist |
+| **Alessandro la monica** | Concept Artist               |
+
+## Sfida/Opportunità
 
 Si elencano di seguito le problematiche e le opportunità che il progetto intende affrontare:
 
-### Problema
+### Sfida
 
 - Con poco capitale iniziale, è essenziale ottimizzare le risorse.
 - Senza un piano chiaro, è difficile attrarre investitori.
@@ -62,7 +65,7 @@ Si elencano di seguito le problematiche e le opportunità che il progetto intend
 
 ### Opportunità
 
-- Il prodotto può distinguersi per originalità e innovazione.
+- Ingresso in un mercato in crescita con potenziale di guadagno.
 - Il networking con investitori porta risorse e visibilità.
 - Il mercato è in espansione, con nuove nicchie da esplorare e riscoprire.
 - Le tecnologie emergenti offrono strumenti avanzati.
@@ -72,12 +75,11 @@ Si elencano di seguito le problematiche e le opportunità che il progetto intend
 ## Process Scoping Meeting
 
 Si terranno tre process scoping meeting per definire la pianificazione del progetto, analizzando
-risorse disponibili, competenze del team, opportunità di mercato e possibili investimenti,
-con particolare attenzione ai diversi bisogni e ai potenziali rischi.
+risorse disponibili, possibili investimenti e opportunità di mercato,
+con particolare attenzione ai diversi desideri/bisogni e ai potenziali rischi.
 
 ### Analisi:
 
-1. risorse disponibili
-2. investimenti possibili
-3. opportunità di mercato
-4. competenze del team
+1. risorse disponibili e investimenti possibili
+2. opportunità di mercato
+3. competenze del team

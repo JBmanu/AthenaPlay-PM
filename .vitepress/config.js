@@ -2,8 +2,9 @@ import {defineConfig} from 'vitepress'
 import { withMermaid } from "vitepress-plugin-mermaid";
 
 let reportPath = '/report'
-let attachmentsPath = reportPath + '/attachments'
+let scopingPath = reportPath + '/scoping'
 // https://vitepress.dev/reference/site-config
+
 
 export default withMermaid(
     defineConfig({
@@ -20,7 +21,7 @@ export default withMermaid(
                 {text: 'Report',
                     items: [
                         {text: 'Contesto', link: `${reportPath}/0-contesto`},
-                        {text: 'Process scoping meeting', link: `${reportPath}/1-scoping`},
+                        {text: 'Scoping', link: `${reportPath}/1-scoping`},
                         {text: 'Valutazione proposte del committente', link: `${reportPath}/2-valutazione-proposte-committente`},
                         {text: 'Project Overview Statement', link: `${reportPath}/3-POS`},
                         {text: 'Analisi dei rischi', link: `${reportPath}/4-POS-AnalisiRischi`},
@@ -29,9 +30,12 @@ export default withMermaid(
                         {text: 'Traduzione', link: `${reportPath}/7-traduzione`},
                     ]
                 },
-                { text: 'Allegati',
+                { text: 'Scoping',
+                    collapsed: true,
                     items: [
-                        {text: 'POS-Project Overview Statement', link: `${attachmentsPath}/POS-Project-Overview-Statement`},
+                        {text: '1-Meeting', link: `${scopingPath}/1-meeting`},
+                        {text: '2-Scoping', link: `${scopingPath}/2-meeting`},
+                        {text: '3-Scoping', link: `${scopingPath}/3-meeting`},
                     ]
 
                 }
