@@ -33,7 +33,13 @@ definizione del progetto.
 ### Allegati chiave:
 
 - [CoS](scoping/1-meeting.md): Conditions of Satisfaction
-- POS: project overview statement (rischi, analisi finanzie, costi/benefici, break-even analysis, return of investment)
+- [POS](scoping/POS.md): project overview statement
+    - [Risk Analysis]()
+    - [Financial Analyses]()
+        - [Feasibility studies]()
+        - [Cost/benefit analysis]()
+        - [Breakeven analysis]()
+        - [Return on investment]()
 - Business Model
 - requisiti: RBS (requirement breakdown structure), business process, prototype, business validation ( Analisi di
   mercato), SWAT analysis

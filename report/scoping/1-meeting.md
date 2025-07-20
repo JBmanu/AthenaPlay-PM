@@ -56,7 +56,7 @@ per garantire una discussione efficace e produttiva.
 | Gameplay             | Creare un gioco originale e di alta qualità che si distingua nel mercato.                      |
 | Gameplay             | Creare una narrativa coinvolgente, originale e adatta al target.                               |
 | Gameplay             | Creare un sistema di progressione e ricompense che incentivi il coinvolgimento.                |
-| Tecnologia           | Utilizzare strumenti e tecnologie moderne e affidabili per lo sviluppo.                        |
+| Tecnologia           | Utilizzare strumenti moderni e affidabili per lo sviluppo.                                     |
 
 ### Bisogni
 
