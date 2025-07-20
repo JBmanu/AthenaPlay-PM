@@ -33,7 +33,7 @@ I soci fondatori di AthenaStudios S.R.L.S. sono:
 
 | Nome                 | Ruolo                                                       |
 |----------------------|-------------------------------------------------------------|
-| **Manuel Buizo**     | CEO, Project Manager, Software architecture e programmatore |
+| **Manuel Buizo**     | CEO, Project Manager, Software architecture e Programmatore |
 | **Luana Mennuti**    | Game Designer, 3D artist, UI/UX Design e Programmatore      |
 | **Alessandro Ricci** | CTO e Technical Artist                                      |
 | **Sabatino Panella** | 2D, Character e Environment Artist                          |
@@ -48,29 +48,6 @@ Collaborano inoltre:
 | **Vittoria Pompolani**   | Illustrator e Concept Artist |
 | **Alessandro la monica** | Concept Artist               |
 
-## Sfida/Opportunità
-
-Si elencano di seguito le problematiche e le opportunità che il progetto intende affrontare:
-
-### Sfida
-
-- Con poco capitale iniziale, è essenziale ottimizzare le risorse.
-- Senza un piano chiaro, è difficile attrarre investitori.
-- Senza un’analisi di mercato, si rischiano investimenti inefficaci e prodotti fuori target.
-- Serve un’idea distintiva per emergere in un mercato competitivo.
-- Il rapido cambiamento del settore richiede sviluppo veloce.
-- Formare un team qualificato è una sfida costante.
-- Senza una community attiva, la visibilità è limitata.
-- Le tecnologie moderne richiedono competenze specifiche e aggiornate.
-
-### Opportunità
-
-- Ingresso in un mercato in crescita con potenziale di guadagno.
-- Il networking con investitori porta risorse e visibilità.
-- Il mercato è in espansione, con nuove nicchie da esplorare e riscoprire.
-- Le tecnologie emergenti offrono strumenti avanzati.
-- La creazione di un team qualificato favorisce crescita e stabilità.
-- La tecnologia può generare nuove idee e prodotti.
 
 ## Process Scoping Meeting
 

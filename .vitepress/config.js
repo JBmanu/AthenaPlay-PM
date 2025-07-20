@@ -34,8 +34,8 @@ export default withMermaid(
                     collapsed: true,
                     items: [
                         {text: '1-Meeting', link: `${scopingPath}/1-meeting`},
-                        {text: '2-Scoping', link: `${scopingPath}/2-meeting`},
-                        {text: '3-Scoping', link: `${scopingPath}/3-meeting`},
+                        {text: '2-Meeting', link: `${scopingPath}/2-meeting`},
+                        {text: '3-Meeting', link: `${scopingPath}/3-meeting`},
                     ]
 
                 }
