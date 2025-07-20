@@ -27,7 +27,7 @@ definizione del progetto.
 ### Documenti di suporto:
 
 - [Desideri e Bisogni](scoping/1-meeting.md)
-- [Stato del progetto](scoping/1-meeting.md)
+- [Stato del progetto](scoping/1-meeting.md) (AS-IS, TO-BE, NICE-TO-HAVE)
 - [sfide e opportunità](scoping/1-meeting.md)
 
 ### Allegati chiave:
