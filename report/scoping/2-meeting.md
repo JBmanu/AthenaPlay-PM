@@ -59,11 +59,7 @@ del progetto e delle sue caratteristiche principali:[POS](POS.md).
 
 Assieme ai vari allegati utili a valutare e validare le decisioni prese:
 - [Risk Analysis](Risk-Analysis.md)
-- [Financial Analyses](Financial-Analyses.md)
-    - Feasibility studies
-    - Cost/benefit analysis
-    - Breakeven analysis
-    - Return on investment
+- [Feasibility studies](Feasibility-studies.md)
 
 ## Business Model
 

@@ -41,7 +41,7 @@ export default withMermaid(
                         {text: 'Market Analysis', link: `${scopingPath}/Market-Analysis`},
                         {text: 'POS', link: `${scopingPath}/POS`},
                         {text: 'Risk Analysis', link: `${scopingPath}/Risk-Analysis`},
-                        {text: 'Financial Analyses', link: `${scopingPath}/Financial-Analyses`},
+                        {text: 'Feasibility studies', link: `${scopingPath}/Feasibility-studies`},
                     ]
 
                 }

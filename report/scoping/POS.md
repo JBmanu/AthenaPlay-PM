@@ -22,7 +22,7 @@ coinvolgente e di attrarre un pubblico ampio e diversificato.
 - Inserire meccaniche solide e innovative per attrarre il pubblico.
 - Costruire un'identità solida sui social media: Instagram, Twitter, Reddit.
 - Localizzare il gioco nelle lingue: inglese, italiano, Japponese, spagnolo.
-- Lanciare inizialmente il gioco su PC.
+- Lanciare inizialmente il gioco su PC (tramite Steam).
 - Sviluppo completato entro 3 anni.
 
 ## Success Criteria
@@ -43,9 +43,9 @@ progetto: [Risk Analysis](Risk-Analysis.md).
 
 ## Obstacles
 
-## Financial Analyses
+## Feasibility studies
 
 Per dare validità alle decisioni prese, sono state condotte analisi finanziarie
 per valutare la fattibilità del progetto e le potenzialità di ritorno economico:
-[Financial Analyses](Financial-Analyses.md).
+[Feasibility studies](Feasibility-studies.md).
 
