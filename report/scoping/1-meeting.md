@@ -71,7 +71,7 @@ per garantire una discussione efficace e produttiva.
 | Gameplay e Marketing | Localizzare il gioco nelle lingue principali.                                                                  |
 | Gameplay e Marketing | Lanciare il gioco inizialmente su PC.                                                                          |
 | Gameplay             | Definire il concept del gioco, il genere e il tono narrativo.                                                  |
-| Gameplay             | Sviluppare il gioco in locale senza dipendenze da server esterni.                                              |
+| Gameplay             | Sviluppare il gioco, giocabile solo offline, senza dipendenze da server esterni.                               |
 | Gameplay             | Partire da un nucleo di meccaniche solide, integrando innovazioni che ne esaltino il valore.                   |
 | Tecnologia           | Selezionare le tecnologie di sviluppo (motore di gioco, strumenti grafici, middleware).                        |
 
@@ -85,7 +85,7 @@ per garantire una discussione efficace e produttiva.
 
 ### TO-BE
 
-- Sviluppare un gioco in locale, senza dipendenze da server esterni.
+- Sviluppare un gioco, giocabile solo offline, senza dipendenze da server esterni.
 - Costruire una narrativa minimalle e coinvolgente.
 - Utilizzare tecnologie moderne per garantire qualità e buone prestazioni.
 - Inserire meccaniche solide e innovative per attrarre il pubblico.

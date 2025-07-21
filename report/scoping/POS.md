@@ -2,25 +2,50 @@
 
 ## Problema/Opportunity
 
-Entrare nel mercato videoludico con un titolo originale, progettato per
-consolidare la presenza aziendale nel settore e generare flussi di ricavo
-sostenibili a breve e lungo termine.
+Entrare nel mercato videoludico con un titolo originale e sostenibile, sviluppato
+per posizionare l’azienda nel settore e avviare un percorso di crescita sostenibile.
+Generando flussi di ricavo a breve termine attraverso il lancio del prodotto,
+e allo stesso tempo costruire una base solida per sviluppi futuri, ampliando
+le possibilità aziendali e la visibilità nel medio-lungo periodo.
 
 ## Goal
 
-Sviluppare il gioco originale che soddisfi le aspettative del pubblico e 
-crei una base solida per futuri progetti, riuscendo a raggiungere il target 
-stabilito, prendendo posto nel mercato videoludico e generando ricavi.
+Sviluppare un gioco Indie/AA originale, giocabile solo offline, incentrato su un
+titolo Rogue-lite con elementi RPG e Action, capace di offrire un’esperienza
+coinvolgente e di attrarre un pubblico ampio e diversificato.
 
 ## Objectives
 
+- Creare un gioco, giocabile solo offline.
+- Sviluppare un gioco con una durata minima di 15 ore.
+- Utilizzare tecnologie moderne per garantire qualità e buone prestazioni.
+- Inserire meccaniche solide e innovative per attrarre il pubblico.
+- Costruire un'identità solida sui social media: Instagram, Twitter, Reddit.
+- Localizzare il gioco nelle lingue: inglese, italiano, Japponese, spagnolo.
+- Lanciare inizialmente il gioco su PC.
+- Sviluppo completato entro 3 anni.
+
 ## Success Criteria
+
+- Costo di sviluppo:
+- Prezzo di vendita:
+- Numero di vendite:
+- ROI di guadagno:
 
 ## Assumptions
 
+-
+
 ## Risks
+
+Di seguito sono riportati i rischi identificati, che potrebbero influenzare il
+progetto: [Risk Analysis](Risk-Analysis.md).
 
 ## Obstacles
 
+## Financial Analyses
 
+Per dare validità alle decisioni prese, sono state condotte analisi finanziarie
+per valutare la fattibilità del progetto e le potenzialità di ritorno economico:
+[Financial Analyses](Financial-Analyses.md).
 

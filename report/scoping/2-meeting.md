@@ -38,11 +38,12 @@ Per ciascuna categoria sono stati riportati esempi concreti di titoli
 rappresentativi, al fine di offrire una visione chiara delle dinamiche del
 settore e delle opportunità disponibili.
 
-[Market Analysis](Market-analysis.md)
+[Market Analysis](Market-Analysis.md)
 
 A seguito dell'analisi, sono stati identificati i seguenti punti chiave:
 
 - **Costo di sviluppo**: 50K - 5M
+- **Prezzo di vendita**: 15 - 25
 - **Genere di gioco**: Rogue-like, Rogue-lite, Action, RPG
 - **Categoria di prodotto**: Indie, AA
 - **Durata dello sviluppo**: 2-3 anni
@@ -57,18 +58,12 @@ Di seguito sono riportati i punti chiave del POS, che forniscono una panoramica
 del progetto e delle sue caratteristiche principali:[POS](POS.md).
 
 Assieme ai vari allegati utili a valutare e validare le decisioni prese:
-
-[//]: # (- [Risk Analysis]&#40;&#41;)
-
-[//]: # (- [Financial Analyses]&#40;&#41;)
-
-[//]: # (    - [Feasibility studies]&#40;&#41;)
-
-[//]: # (    - [Cost/benefit analysis]&#40;&#41;)
-
-[//]: # (    - [Breakeven analysis]&#40;&#41;)
-
-[//]: # (    - [Return on investment]&#40;&#41;)
+- [Risk Analysis](Risk-Analysis.md)
+- [Financial Analyses](Financial-Analyses.md)
+    - Feasibility studies
+    - Cost/benefit analysis
+    - Breakeven analysis
+    - Return on investment
 
 ## Business Model
 
