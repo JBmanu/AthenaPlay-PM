@@ -33,15 +33,16 @@ definizione del progetto.
 ### Allegati chiave:
 
 - [CoS](scoping/1-meeting.md): Conditions of Satisfaction
+- Market Analysis
 - [POS](scoping/POS.md): project overview statement
-    - [Risk Analysis]()
-    - [Financial Analyses]()
-        - [Feasibility studies]()
-        - [Cost/benefit analysis]()
-        - [Breakeven analysis]()
-        - [Return on investment]()
+  [//]: # (    - [Risk Analysis]&#40;&#41;)
+  [//]: # (    - [Financial Analyses]&#40;&#41;)
+  [//]: # (        - [Feasibility studies]&#40;&#41;)
+  [//]: # (        - [Cost/benefit analysis]&#40;&#41;)
+  [//]: # (        - [Breakeven analysis]&#40;&#41;)
+  [//]: # (        - [Return on investment]&#40;&#41;)
+
 - Business Model
-- requisiti: RBS (requirement breakdown structure), business process, prototype, business validation ( Analisi di
-  mercato), SWAT analysis
+- requisiti: RBS (requirement breakdown structure), business process, prototype, business validation, SWAT analysis
 - Modello PMLC: project management life cycle
 

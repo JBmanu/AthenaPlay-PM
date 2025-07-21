@@ -1,5 +1,5 @@
 import {defineConfig} from 'vitepress'
-import { withMermaid } from "vitepress-plugin-mermaid";
+import {withMermaid} from "vitepress-plugin-mermaid";
 
 let reportPath = '/report'
 let scopingPath = reportPath + '/scoping'
@@ -18,11 +18,15 @@ export default withMermaid(
             ],
 
             sidebar: [
-                {text: 'Report',
+                {
+                    text: 'Report',
                     items: [
                         {text: 'Contesto', link: `${reportPath}/0-contesto`},
                         {text: 'Scoping', link: `${reportPath}/1-scoping`},
-                        {text: 'Valutazione proposte del committente', link: `${reportPath}/2-valutazione-proposte-committente`},
+                        {
+                            text: 'Valutazione proposte del committente',
+                            link: `${reportPath}/2-valutazione-proposte-committente`
+                        },
                         {text: 'Project Overview Statement', link: `${reportPath}/3-POS`},
                         {text: 'Analisi dei rischi', link: `${reportPath}/4-POS-AnalisiRischi`},
                         {text: 'Requirements Breakdown Structure', link: `${reportPath}/5-RBS`},
@@ -30,12 +34,16 @@ export default withMermaid(
                         {text: 'Traduzione', link: `${reportPath}/7-traduzione`},
                     ]
                 },
-                { text: 'Scoping',
+                {
+                    text: 'Scoping',
                     collapsed: true,
                     items: [
                         {text: '1-Meeting', link: `${scopingPath}/1-meeting`},
                         {text: '2-Meeting', link: `${scopingPath}/2-meeting`},
                         {text: '3-Meeting', link: `${scopingPath}/3-meeting`},
+                        {text: 'Market Analysis', link: `${scopingPath}/Market-analysis`},
+                        {text: 'POS', link: `${scopingPath}/POS`},
+
                     ]
 
                 }
