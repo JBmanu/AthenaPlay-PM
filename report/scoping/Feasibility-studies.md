@@ -69,6 +69,9 @@ Collaboratori:
 **Totale ricavi minimi**: €19,99 * 10.000 = €199.900,00 - 30% = €139.930,00
 **Totale ricavi ottimistiche**: €19,99 * 100.000 = €1.999.000,00 - 30% = €1.399.300,00  
 
+<iframe src="https://docs.google.com/spreadsheets/d/1VJKu_P6mUfhXTyA3cvgl_bDoUeMmOLCSJxWIu0laI_U/edit?usp=sharing"
+width="100%" height="400px" frameborder="0"></iframe>
+
 | Voce                 | Valore stimato |
 |----------------------|----------------|
 | Prezzo di vendita    | €19,99         |
@@ -76,7 +79,8 @@ Collaboratori:
 | Vendite ottimistiche | 100.000 copie  |
 
 ## Breakeven analysis
-**Copie necessarie**: > 59K
+
+**Copie necessarie**: 59K
 
 ## Return on investment
 
