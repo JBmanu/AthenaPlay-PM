@@ -5,13 +5,12 @@ sostenibilità economica e il potenziale ritorno sugli investimenti.
 
 ## Informazioni generali
 
-Titolo provvisorio: FarAfter
+- **Titolo provvisorio**: FarAfter
+- **Genere / Stile di gioco**: Rogue-lite (Action + RPG)
+- **Durata stimata del progetto**: 3 anni
 
-Genere / Stile di gioco: Rogue-lite (Action + RPG)
+### Team coinvolto (ruoli e numero)
 
-Durata stimata del progetto: 3 anni
-
-Team coinvolto (ruoli e numero)
 Core team di 6 persone, con competenze in project management, game design,
 programmazione, arte 2D/3D, sound design e marketing.
 
@@ -35,6 +34,31 @@ Collaboratori:
 ## Cost/benefit analysis
 
 **Costi totali**: € 827.640
+
+```mermaid
+---
+config:
+pie:
+textPosition: 0.5
+themeVariables:
+pieOuterStrokeWidth: "5px"
+---
+pie showData
+title Key elements in Product X
+"Calcium" : 42.96
+"Potassium" : 50.05
+"Magnesium" : 10.01
+"Iron" :  5
+```
+
+```mermaid
+xychart-beta
+    title "Sales Revenue"
+    x-axis [jan, feb, mar, apr, may, jun, jul, aug, sep, oct, nov, dec]
+    y-axis "Revenue (in $)" 4000 --> 11000
+    bar [5000, 6000, 7500, 8200, 9500, 10500, 11000, 10200, 9200, 8500, 7000, 6000]
+    line [5000, 6000, 7500, 8200, 9500, 10500, 11000, 10200, 9200, 8500, 7000, 6000]
+```
 
 ### Costi di sviluppo
 
