@@ -34,7 +34,11 @@ coinvolgente e di attrarre un pubblico ampio e diversificato.
 
 ## Assumptions
 
--
+- Team con esperienza nella creazione di giochi Indie/AA.
+- Conoscenza delle tecnologie e strumenti standard di Unity.
+- Disponibilità di risorse finanziarie per lo sviluppo e il marketing.
+- Disponibilità di un commerciale per la gestione delle vendite e del marketing.
+- Disponibilità di un avvocato per la gestione legale e dei diritti d'autore.
 
 ## Risks
 
@@ -42,6 +46,9 @@ Di seguito sono riportati i rischi identificati, che potrebbero influenzare il
 progetto: [Risk Analysis](Risk-Analysis.md).
 
 ## Obstacles
+
+- Rallentamento dello sviluppo a causa delle nuove e innovative technologie.
+- Difficoltà nella gestione del team e della comunicazione.
 
 ## Feasibility studies
 

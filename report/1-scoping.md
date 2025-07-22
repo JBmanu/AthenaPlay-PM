@@ -37,7 +37,6 @@ definizione del progetto.
 - [POS](scoping/POS.md): project overview statement
     - [Risk Analysis](scoping/Risk-Analysis.md)
     - [Feasibility studies](scoping/Feasibility-studies.md)
-
 - Business Model
 - requisiti: RBS (requirement breakdown structure), business process, prototype, business validation, SWAT analysis
 - Modello PMLC: project management life cycle

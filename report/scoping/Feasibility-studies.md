@@ -44,20 +44,12 @@ themeVariables:
 pieOuterStrokeWidth: "5px"
 ---
 pie showData
-title Key elements in Product X
-"Calcium" : 42.96
-"Potassium" : 50.05
-"Magnesium" : 10.01
-"Iron" :  5
-```
-
-```mermaid
-xychart-beta
-    title "Sales Revenue"
-    x-axis [jan, feb, mar, apr, may, jun, jul, aug, sep, oct, nov, dec]
-    y-axis "Revenue (in $)" 4000 --> 11000
-    bar [5000, 6000, 7500, 8200, 9500, 10500, 11000, 10200, 9200, 8500, 7000, 6000]
-    line [5000, 6000, 7500, 8200, 9500, 10500, 11000, 10200, 9200, 8500, 7000, 6000]
+    title Costi di produzione
+    "Personale": 84.82
+    "Software": 3.61
+    "Hardware": 2.17
+    "Marketing": 2.72
+    "Varie e imprevisti": 9.09
 ```
 
 ### Costi di sviluppo
@@ -99,14 +91,37 @@ xychart-beta
 - **Breakeven**: 94.097 copie
 - **Ritorno sull'investimento ottimo**: 300.000 copie
 
-| Voce           | Copie   | Ricavo netto | Ritorno sull'investimento | ROI     |
-|----------------|---------|--------------|---------------------------|---------|
-| Vendite minime | 10.000  | € 87.956     | € -739.684                | 10,63%  |
-| Vendite medie  | 100.000 | € 879.560    | € 51.920                  | 106,27% |
-| Vendite ottime | 500.000 | € 4.397.800  | € 3.570.160               | 531,37% |
-| Breakeven      | 94.097  | € 827.640    | € 0,00                    | 100,00% |
-| ritorno medio  | 200.000 | € 1.759.120  | € 931.480                 | 212,55% |
-| ritorno ottimo | 300.000 | € 2.638.680  | € 1.811.040               | 318,82% |
+```mermaid
+---
+config:
+    xyChart:
+        showDataLabel: true
+        yAxis:
+            titlePadding: 
+            labelFontSize: 15
+        xAxis:
+            labelFontSize: 15
+            showLabel: true
+    themeVariables:
+        xyChart:
+            titleColor: "#ff0000"
+---
+xychart-beta
+    title "Stima dei potenziali ricavi"
+x-axis "Copie" [10000, 100000, 500000, 940967, 200000, 300000]
+y-axis "Ricavo netto (in €)" 5000 --> 5000000
+bar [87956, 879560, 4397800, 827640, 1759120, 2638680]
+%%line [87956, 879560, 4397800, 827640, 1759120, 2638680]
+```
+
+| Voce           | Copie   | Ricavo lordo | Ricavo netto | Ritorno sull'investimento | ROI     |
+|----------------|---------|--------------|--------------|---------------------------|---------|
+| Vendite minime | 10.000  | € 199.900    | € 87.956     | € -739.684                | 10,63%  |
+| Vendite medie  | 100.000 | € 1.999.000  | € 879.560    | € 51.920                  | 106,27% |
+| Vendite ottime | 500.000 | € 9.995.000  | € 4.397.800  | € 3.570.160               | 531,37% |
+| Breakeven      | 94.097  | € 1.881.000  | € 827.640    | € 0,00                    | 100,00% |
+| ritorno medio  | 200.000 | € 3.998.000  | € 1.759.120  | € 931.480                 | 212,55% |
+| ritorno ottimo | 300.000 | € 5.997.000  | € 2.638.680  | € 1.811.040               | 318,82% |
 
 ## Return on investment
 
