@@ -142,3 +142,36 @@ Si sono prese in considerazione per avere un vantaggio e una prospettiva di cres
 width="100%" height="400px" frameborder="0"></iframe>
 
 ## Potential investors
+
+Sono stati identificati diversi potenziali investitori, sia in ambito
+italiano che europeo, interessati a sostenere la nascita di nuove realtà
+videoludiche attraverso finanziamenti a fondo perduto.
+Sono inoltre stati analizzati alcuni publisher in linea con le caratteristiche
+del progetto — un rogue-lite con grafica in pixel art moderna — che potrebbero
+essere interessati non solo alla pubblicazione del gioco, ma anche a supportarlo
+con risorse economiche, visibilità e attività di marketing.
+
+### Tabella Acceleratori Italiani per Videogiochi
+
+| Nome Acceleratore           | Finanziamento (€)               | Località            | Tipo Supporto                        | Durata programma  | Note Speciali                                |
+|-----------------------------|---------------------------------|---------------------|--------------------------------------|-------------------|----------------------------------------------|
+| **Bologna Game Farm**       | 30.000Sviluppo€ a fondo perduto | Bologna             | Mentoring + uffici + consulenze      | 4 mesi            | Focus su team emergenti con prototipo        |
+| **Quickload**               | 60.000Sviluppo€ + mentoring     | Torino              | Equity-free, partner con 34BigThings | \~5 mesi          | Accesso publisher e dev esperti              |
+| **Cinecittà Game Hub**      | \~30.000Sviluppo€ (variabile)   | Roma (Cinecittà)    | Postazione + mentoring + visibilità  | \~6 mesi          | Supportato da IIDEA e Regione Lazio          |
+| **Creative Europe – Media** | Fino a 150.000–200.000Sviluppo€ | UE (Italia inclusa) | Grant europeo a fondo perduto        | \~1 anno          | Competitivo, per prototipi con potenziale EU |
+| **Red Bull Indie Forge**    | Visibilità + premi (non cash)   | Online/Italia       | Evento/showcase + partner media      | Selezione annuale | Ottimo per visibilità e network, non fondi   |
+
+### Publisher per Giochi Indie – RogueLite & Pixel Art
+
+| Nome Publisher       | Giochi Rilevanti Pubblicati                       | Marketing/Distribuzione                      | Percentuale Guadagno stimata\* | Note Chiave                                                      |
+|----------------------|---------------------------------------------------|----------------------------------------------|--------------------------------|------------------------------------------------------------------|
+| **Devolver Digital** | *Enter the Gungeon*, *Loop Hero*, *Katana ZERO*   | Alta – E3, showcase, trailer virali          | 30–50%                         | Molto selettivi, ma spingono forte i titoli con personalità      |
+| **Chucklefish**      | *Stardew Valley* (early), *Eastward*, *Wargroove* | Media/Alta – molto amati dalla community     | 30–40%                         | Famosi per curare giochi in pixel art con forte valore artistico |
+| **Megabit (UK)**     | *Soulstone Survivors*, *Rogue AI Simulator*       | Media – community-driven, accesso influencer | 20–35%                         | Ottimo supporto su Steam, adatti a team giovani o 1° progetto    |
+| **Raw Fury**         | *Sable*, *Kingdom*, *Dome Keeper*                 | Alta – branding molto forte                  | 30–50%                         | Amanti del pixel art e concept originali                         |
+| **Team17**           | *Blasphemous*, *Greak*, *Neon Abyss*              | Alta – Steam, console, PR                    | 25–35%                         | Ottimo ponte per porting console, ma richiesta qualità elevata   |
+| **Humble Games**     | *Unsighted*, *Moonscars*, *Archvale*              | Alta – bundle, store, console                | 20–35%                         | Molto presenti su bundle e abbonamenti                           |
+| **TinyBuild**        | *Pathologic 2*, *Streets of Rogue*                | Alta su Steam, YouTube                       | 30–40%                         | Buon supporto marketing, ma gestione a volte rigida              |
+| **No More Robots**   | *Descenders*, *Not Tonight*, *Heist Simulator*    | Media – community & console                  | 25–35%                         | Forte lato narrativo e idee fuori dagli schemi                   |
+
+

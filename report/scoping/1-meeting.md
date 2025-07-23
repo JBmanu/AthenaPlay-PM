@@ -67,6 +67,7 @@ per garantire una discussione efficace e produttiva.
 | Sviluppo e Marketing | Creare un'esperienza di gioco che duri almeno 15 ore                                                           |
 | Sviluppo e Marketing | Localizzare il gioco nelle lingue principali.                                                                  |
 | Sviluppo e Marketing | Lanciare il gioco inizialmente su PC.                                                                          |
+| Sviluppo             | Realizzare una grafica moderna e accattivante, con un design coerente e di qualità.                            |
 | Sviluppo             | Definire il concept del gioco, il genere e il tono narrativo.                                                  |
 | Sviluppo             | Creare la musica e gli effetti sonori che si integrino con l'atmosfera del gioco.                              |
 | Sviluppo             | Sviluppare il gioco, giocabile solo offline, senza dipendenze da server esterni.                               |
@@ -84,6 +85,7 @@ per garantire una discussione efficace e produttiva.
 ### TO-BE
 
 - Sviluppare un gioco, giocabile solo offline, senza dipendenze da server esterni.
+- Realizzare una grafica moderna e accattivante, con un design coerente e di qualità.
 - Creare la musica e gli effetti sonori che si integrino con l'atmosfera del gioco.
 - Costruire una narrativa minimalle e coinvolgente.
 - Utilizzare tecnologie moderne per garantire qualità e buone prestazioni.

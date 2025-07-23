@@ -30,6 +30,7 @@ I successivi rischi sono stati classificati secondo:
 | 🛠 Problemi di performance o bug critici che emergono troppo tardi.       | Tempo          | Alta    | Mitigate    |
 | 💰 Superamento del budget o mancanza di ritorno economico.                | Risorse/Costo  | Media   | Contingency |
 | 📣 Difficoltà nel raggiungere il target senza publisher o PR forti.       | Scopo/Qualità  | Media   | Transfer    |
+| 🕒 Ritardi nello sviluppo che impattano sul lancio.                       | Tempo          | Media   | Contingency |
 | 🔁 Difficoltà nel supportare il gioco post-lancio (patch, feedback, DLC). | Tempo          | Media   | Contingency |
 | ⚖ Violazioni involontarie di copyright (musica, asset, nomi simili).      | Scopo/Qualità  | Bassa   | Accept      |
 | 👥 Perdita di membri chiave o problemi di collaborazione.                 | Risorse/Costo  | Bassa   | Mitigate    |

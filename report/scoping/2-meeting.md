@@ -31,7 +31,7 @@ figure chiave al team, selezionate in base alle loro competenze.
 
 L'analisi di mercato ha messo in luce le tendenze dal 2015 al 2024, prendendo
 in esame costo e durata dello sviluppo, longevità del gameplay, ricavi dalle
-vendite, tipologie di prodotto (AAA, AA, A) e piattaforme di distribuzione.
+vendite, tipologie di prodotto (AAA, AA, A, Indie) e piattaforme di distribuzione.
 Per ciascuna categoria sono stati riportati esempi concreti di titoli
 rappresentativi, al fine di offrire una visione chiara delle dinamiche del
 settore e delle opportunità disponibili.

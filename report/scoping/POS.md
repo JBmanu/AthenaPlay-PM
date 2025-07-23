@@ -10,17 +10,20 @@ le possibilità aziendali e la visibilità nel medio-lungo periodo.
 
 ## Goal
 
-Sviluppare un gioco Indie/AA originale, giocabile solo offline, incentrato su un
-titolo Rogue-lite con elementi RPG e Action, capace di offrire un’esperienza
-coinvolgente e di attrarre un pubblico ampio e diversificato.
+Sviluppare un gioco Indie/AA originale, giocabile esclisivamente offline,
+incentrato su un titolo Rogue-lite con elementi RPG e Action, capace di offrire
+un’esperienza coinvolgente e di attrarre un pubblico ampio e diversificato,
+grazie alla grafica pixel art moderna.
 
 ## Objectives
 
 - Gioco giocabile solo offline.
-- Costruire meccaniche solide e originali per attrarre il pubblico, tra cui:
-  combattimento, esplorazione, progressione del personaggio e sistema di ricompense.
-- Sviluppare un gioco con una durata minima di 15 ore.
+- Costruire meccaniche solide, originali e affini al gioco per attrarre il pubblico.
 - Utilizzare tecnologie moderne per garantire qualità e buone prestazioni.
+- Introdurre una narrativa minimale e coinvolgente.
+- Realizzare un grafica pixel art moderna, con uno stile 2.5D.
+- Creare la musica e gli effetti sonori che si integrino con l'atmosfera del gioco.
+- Sviluppare un gioco con una durata minima di 15 ore.
 - Costruire un'identità solida sui social media: Instagram, Twitter, Reddit.
 - Localizzare il gioco nelle lingue: inglese, italiano, Japponese, spagnolo.
 - Lanciare inizialmente il gioco su PC (tramite Steam).
@@ -37,13 +40,13 @@ coinvolgente e di attrarre un pubblico ampio e diversificato.
 
 - Team con esperienza nella creazione di giochi Indie/AA.
 - Conoscenza delle tecnologie e tool standard di Unity.
-- Reparto artistico con competenze solide in 2D, 3D, UI/UX e sound design.
+- Reparto artistico con competenze solide in 2D (pixel art moderna), 3D, UI/UX e sound design.
 - Spazio di lavoro adeguato per il team.
 
 ## Risks
 
-Di seguito sono riportati i rischi identificati, che potrebbero influenzare il
-progetto: [Risk Analysis](Risk-Analysis.md).
+Sono identificati i possibili rischi, che potrebbero influenzare il progetto:
+[Risk Analysis](Risk-Analysis.md).
 
 ## Obstacles
 
