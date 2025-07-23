@@ -27,10 +27,10 @@ coinvolgente e di attrarre un pubblico ampio e diversificato.
 
 ## Success Criteria
 
-- Costo di sviluppo: <= € 827.640
+- Costo di sviluppo: <= € 834.240
 - Prezzo di vendita: > € 19,99
 - Numero di vendite: > 250.000 copie (nell'arco di 1/2 anno)
-- ROI di guadagno: 212,55% (nell'arco di 1/2 anno)
+- ROI di guadagno: 210,86% (nell'arco di 1/2 anno)
 
 ## Assumptions
 

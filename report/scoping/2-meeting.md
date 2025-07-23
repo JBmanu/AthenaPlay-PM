@@ -66,5 +66,4 @@ Assieme ai vari allegati utili a valutare e validare le decisioni prese:
 In fine si riporta il Business Model Canvas del gioco, che illustra le
 componenti principali del modello di business:
 
-immagine (modello del bisogno)
-immagine (modello dei desiderio)
+![Business Model Canvas](../../public/resources/business-model-canvas.jpg)

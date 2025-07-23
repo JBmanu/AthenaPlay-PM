@@ -33,7 +33,7 @@ Collaboratori:
 
 ## Cost/benefit analysis
 
-**Costi totali**: € 827.640
+**Costi totali**: € 834.240
 
 ```mermaid
 ---
@@ -45,10 +45,10 @@ pieOuterStrokeWidth: "5px"
 ---
 pie showData
     title Costi di produzione
-    "Personale": 84.82
-    "Software": 3.61
-    "Hardware": 2.17
-    "Marketing": 2.72
+    "Personale": 84.15
+    "Software": 3.58
+    "Hardware": 2.16
+    "Marketing": 3.49
     "Varie e imprevisti": 9.09
 ```
 
@@ -69,7 +69,7 @@ pie showData
 
 ### Costi di marketing e pubblicazione
 
-**Totale marketing**: € 22.550
+**Totale marketing**: € 29.150
 
 | Voce                            | Costo stimato        | Note                             |
 |---------------------------------|----------------------|----------------------------------|
@@ -77,9 +77,9 @@ pie showData
 | Trailer professionale           | € 4.000              | Reveal e launch                  |
 | Grafica marketing / cover store | € 2.000              | illustrazioni, assets            |
 | Campagne ADV (meta/steam ads)   | € 10.000             | 3 fasi: reveal, wishlist, lancio |
-| Localizzazione (5 lingue)       | € 4.000              | ITA, ENG, JAP, SPA               |
+| Localizzazione (5 lingue)       | € 10.000             | ITA, ENG, JAP, SPA               |
 | Commissioni store (Steam 30%)   | Incluso sotto ricavi | Non anticipati                   |
-| **Varie e imprevisti (10%)**    | € 2.050              | Calcolato sul subtotale          |
+| **Varie e imprevisti (10%)**    | € 2.650              | Calcolato sul subtotale          |
 
 ### Stima dei ricavi potenziali
 
@@ -108,20 +108,20 @@ config:
 ---
 xychart-beta
     title "Stima dei potenziali ricavi"
-x-axis "Copie" [10000, 100000, 500000, 940967, 200000, 300000]
+x-axis "Copie" [10000, 100000, 500000, 94847, 200000, 300000]
 y-axis "Ricavo netto (in €)" 5000 --> 5000000
-bar [87956, 879560, 4397800, 827640, 1759120, 2638680]
-%%line [87956, 879560, 4397800, 827640, 1759120, 2638680]
+bar [87956, 879560, 4397800, 834240, 1759120, 2638680]
+%%line [87956, 879560, 4397800, 834240, 1759120, 2638680]
 ```
 
 | Voce           | Copie   | Ricavo lordo | Ricavo netto | Ritorno sull'investimento | ROI     |
 |----------------|---------|--------------|--------------|---------------------------|---------|
 | Vendite minime | 10.000  | € 199.900    | € 87.956     | € -739.684                | 10,63%  |
-| Vendite medie  | 100.000 | € 1.999.000  | € 879.560    | € 51.920                  | 106,27% |
-| Vendite ottime | 500.000 | € 9.995.000  | € 4.397.800  | € 3.570.160               | 531,37% |
-| Breakeven      | 94.097  | € 1.881.000  | € 827.640    | € 0,00                    | 100,00% |
-| ritorno medio  | 200.000 | € 3.998.000  | € 1.759.120  | € 931.480                 | 212,55% |
-| ritorno ottimo | 300.000 | € 5.997.000  | € 2.638.680  | € 1.811.040               | 318,82% |
+| Vendite medie  | 100.000 | € 1.999.000  | € 879.560    | € 51.920                  | 105,43% |
+| Vendite ottime | 500.000 | € 9.995.000  | € 4.397.800  | € 3.570.160               | 527,16% |
+| Breakeven      | 94.847  | € 1.896.000  | € 834.240    | € 0,00                    | 100,00% |
+| ritorno medio  | 200.000 | € 3.998.000  | € 1.759.120  | € 931.480                 | 210,86% |
+| ritorno ottimo | 300.000 | € 5.997.000  | € 2.638.680  | € 1.811.040               | 316,30% |
 
 ## Return on investment
 
