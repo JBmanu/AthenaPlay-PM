@@ -27,18 +27,17 @@ coinvolgente e di attrarre un pubblico ampio e diversificato.
 
 ## Success Criteria
 
-- Costo di sviluppo: € 827.640
-- Prezzo di vendita: € 19,99
-- Numero di vendite: 250.000 copie (nell'arco di 1 anno)
-- ROI di guadagno: 212,55%
+- Costo di sviluppo: <= € 827.640
+- Prezzo di vendita: > € 19,99
+- Numero di vendite: > 250.000 copie (nell'arco di 1/2 anno)
+- ROI di guadagno: 212,55% (nell'arco di 1/2 anno)
 
 ## Assumptions
 
 - Team con esperienza nella creazione di giochi Indie/AA.
-- Conoscenza delle tecnologie e strumenti standard di Unity.
-- Disponibilità di risorse finanziarie per lo sviluppo e il marketing.
-- Disponibilità di un commerciale per la gestione delle vendite e del marketing.
-- Disponibilità di un avvocato per la gestione legale e dei diritti d'autore.
+- Conoscenza delle tecnologie e tool standard di Unity.
+- Reparto artistico con competenze solide in 2D, 3D, UI/UX e sound design.
+- Spazio di lavoro adeguato per il team.
 
 ## Risks
 
@@ -48,7 +47,10 @@ progetto: [Risk Analysis](Risk-Analysis.md).
 ## Obstacles
 
 - Rallentamento dello sviluppo a causa delle nuove e innovative technologie.
-- Difficoltà nella gestione del team e della comunicazione.
+- Coordinazione e comunicazione tra i membri del team, per integrare tutti
+  gli aspetti del gioco (sviluppo, grafica e suono).
+- Test interni insufficienti (gameplay, UX, compatibilità).
+- Mancanza di coerenza visiva o audio tra elementi del gioco.
 
 ## Feasibility studies
 
