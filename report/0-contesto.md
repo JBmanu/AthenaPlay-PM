@@ -8,10 +8,11 @@ dettagliata del mercato, delle tendenze attuali e del pubblico di riferimento,
 al fine di progettare un videogioco in linea con le aspettative del mercato e
 con un forte potenziale commerciale.
 
-Il progetto si basa sull’impegno diretto dei soci/team fondatori, che mettono a
-disposizione competenze professionali e risorse economiche per costituire un
-team qualificato, avviare lo sviluppo del titolo, attrarre investitori e
-curare le attività di promozione.
+Il progetto si basa sull’impegno diretto dei soci/team fondatori, che mettono
+a disposizione competenze professionali nel settore videoludico, esperienza
+pregressa nello sviluppo di giochi tramite Unity e un capitale iniziale pari
+a 2 milioni di euro, con l'obiettivo di costituire un team coeso e qualificato,
+avviare lo sviluppo del titolo, attrarre investitori e curare le attività di promozione.
 Il piano prevede investimenti specifici in marketing, comunicazione e
 successivamente alla costruzione di una community attiva e fidelizzata,
 capace di generare engagement e amplificare la visibilità del prodotto.
@@ -48,15 +49,14 @@ Collaborano inoltre:
 | **Vittoria Pompolani**   | Illustrator e Concept Artist |
 | **Alessandro la monica** | Concept Artist               |
 
-
 ## Process Scoping Meeting
 
-Si terranno tre process scoping meeting per definire la pianificazione del progetto, analizzando
-risorse disponibili, possibili investimenti e opportunità di mercato,
+Si terranno tre process scoping meeting per definire la pianificazione del progetto,
+analizzando risorse possibili e necessarie, possibili investitori e opportunità di mercato,
 con particolare attenzione ai diversi desideri/bisogni e ai potenziali rischi.
 
 ### Analisi:
 
-1. risorse disponibili e investimenti possibili
+1. risorse possibili/necessarie e possbili investitori
 2. opportunità di mercato
 3. competenze del team

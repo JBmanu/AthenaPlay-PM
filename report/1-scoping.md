@@ -1,13 +1,5 @@
 # Scoping
 
-## Meeting
-
-1. [meeting](scoping/1-meeting.md)
-2. [meeting](scoping/2-meeting.md)
-3. [meeting](scoping/3-meeting.md)
-
-## Process Scoping Meeting
-
 Durante i process scoping meeting parteciperà un sottoinsieme selezionato dei soci, con
 l’obiettivo di ottimizzare la definizione del processo.
 Trattandosi del primo progetto aziendale, ruoli e responsabilità saranno formalizzati
@@ -17,9 +9,14 @@ conservazione strutturata delle informazioni.
 Al termine dei vari meeting, saranno raccolti i dati e prodotti gli allegati chiave per la
 definizione del progetto.
 
+## Meeting
+
+1. [meeting](scoping/1-meeting.md)
+2. [meeting](scoping/2-meeting.md)
+3. [meeting](scoping/3-meeting.md)
+
 ### Fasi del meeting:
 
-- Context & Introduction
 - scopo del meeting
 - partecipanti
 - produzione degli allegati chiave
