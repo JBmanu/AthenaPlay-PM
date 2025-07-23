@@ -1,6 +1,6 @@
 # Scoping
 
-Durante i process scoping meeting parteciperà un sottoinsieme selezionato dei soci, con
+Durante i process scoping meeting parteciperanno un insieme selezionato dei soci, con
 l’obiettivo di ottimizzare la definizione del processo.
 Trattandosi del primo progetto aziendale, ruoli e responsabilità saranno formalizzati
 pedissequamente in modo chiaro e coerente per prevenire ambiguità operative.
@@ -34,7 +34,7 @@ definizione del progetto.
 - [POS](scoping/POS.md): project overview statement
     - [Risk Analysis](scoping/Risk-Analysis.md)
     - [Feasibility studies](scoping/Feasibility-studies.md)
-- Business Model
+- [Business Model](scoping/2-meeting.md)
 - requisiti: [RBS](scoping/RBS.md) (requirement breakdown structure), business process, prototype, business validation,
   SWAT analysis
 - Modello PMLC: project management life cycle
