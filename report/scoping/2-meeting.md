@@ -44,12 +44,12 @@ A seguito dell'analisi, sono stati identificati i seguenti punti chiave:
 - **Prezzo di vendita**: 15 - 25
 - **Genere di gioco**: Rogue-like, Rogue-lite, Action, RPG
 - **Categoria di prodotto**: Indie, AA
+- **Stile artistico**: Pixel Art Moderna, 2.5D
 - **Durata dello sviluppo**: 2-3 anni
 - **Durata del gameplay**: 15-30 ore
 - **Piattaforme di distribuzione**: PC, console (PlayStation, Xbox, Nintendo Switch)
 - **Target di mercato**: 15-35 anni
 - **Localizzazione del gioco**: Nord America, Europa, Giappone, Corea, Sud America
-- **Stile artistico**: Pixel Art Moderna, 2.5D
 
 ## POS
 
