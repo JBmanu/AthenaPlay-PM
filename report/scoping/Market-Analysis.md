@@ -8,7 +8,7 @@ successo si distinguono Action, Adventure, RPG, Indie e Shooter, tutti
 caratterizzati da una diffusione crescente.
 In relazione al giovane e ambizioso progetto di AthenaStudios, risulta fondamentale
 valutare i costi di sviluppo per ciascun genere, considerando l’obiettivo
-di realizzare un titolo locale con risorse limitate. I generi Indie,
+di realizzare un titolo locale con risorse finite. I generi Indie,
 Action, Adventure e RPG si confermano tra i più solidi, grazie a una crescita
 costante e a un riconoscimento diffuso nel mercato.
 
@@ -108,6 +108,6 @@ frequenza di successo e resa commerciale.
 | 2020 | *Fall Guys*          | Party / Platformer        | \$19.99 | \~\$20M        | \~11M   | \$220M         | \~11x   | \~2 anni    | ∞ (multiplayer)    |
 | 2022 | *Cult of the Lamb*   | Roguelike / Sim / Horror  | \$24.99 | \~\$3M         | \~3.5M  | \~\$87M        | \~29x   | \~2.5 anni  | \~12–25 ore        |
 | 2024 | *Buckshot Roulette*  | Horror / Roguelite        | \$7.99  | \~\$50K        | \~4M    | \~\$32M        | \~640x  | \~1 anno    | \~1–2 ore          |
-| 2024 | *Balatro*            | Card / Roguelike          | \$14.99 | <\$100K        | >5M     | \~\$75M+       | \~750x  | \~2 anni    | \~20–80+ ore       |
+| 2024 | *Balatro*            | Card / Roguelike          | \$14.99 | <\$100K        | \>5M    | \~\$75M+       | \~750x  | \~2 anni    | \~20–80+ ore       |
 | 2024 | *Black Myth: Wukong* | Action RPG (AA-indie)     | \$59.99 | \~\$100M       | \~20.6M | \~\$1.23B      | \~12x   | \~5 anni    | \~30–50 ore        |
 | 2024 | *Palworld*           | Creature / Sim            | \$29.99 | \~\$10M        | \~20.1M | \~\$600M+      | \~60x   | \~3 anni    | \~30–150+ ore      |

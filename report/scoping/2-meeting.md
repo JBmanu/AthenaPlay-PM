@@ -1,16 +1,14 @@
 # 2-Meeting
 
-## Context & Introduction
-
-Nel secondo meeting sono emerse con chiarezza le motivazioni e le
-opportunità alla base del progetto, definendone formalmente finalità e obiettivi
-principali.
+Nel secondo meeting sono state analizzate nel dettaglio le motivazioni e le
+opportunità alla base del progetto, definendone formalmente finalità e
+obiettivi principali.
 
 ## Scopo del meeting
 
-Il meeting aveva l’obiettivo di chiarire e condividere lo scopo del progetto,
+Il meeting aveva l’obiettivo di condividere e formalizzare lo scopo del progetto,
 supportato da un’attenta analisi del mercato videoludico, culminando nella
-formalizzazione del POS (Project Overview Statement) e dei relativi allegati a
+realizzazione del POS (Project Overview Statement) e dei relativi allegati a
 supporto delle decisioni prese.
 È stato inoltre approfondito il modello di business del gioco, presentandone le
 componenti chiave attraverso un Business Model Canvas.
@@ -20,14 +18,14 @@ componenti chiave attraverso un Business Model Canvas.
 Per migliorare la qualità e l'efficacia del meeting, si sono aggiunte alcune
 figure chiave al team, selezionate in base alle loro competenze.
 
-| Nome                 | Competenze                                  | Ruolo                         |
-|----------------------|---------------------------------------------|-------------------------------|
-| **Manuel Buizo**     | CEO, Project Manager, Software architecture | Project Manager e Facilitator |
-| **Luana Mennuti**    | Game Designer, 3D artist, UI/UX Design      | Core Team                     |
-| **Alessandro Ricci** | CTO, Technical Artist                       | Core Team                     |
-| **Matteo Manicone**  | CFO, Marketing Manager                      | Core Team                     |
-| **Sabatino Panella** | 2D, Character e Environment Artist          | Core Team                     |
-| **Dominic Sambucco** | Sound Designer e Musicista                  | Core Team                     |
+| Nome                 | Competenze                                  | Ruolo                   |
+|----------------------|---------------------------------------------|-------------------------|
+| **Manuel Buizo**     | CEO, Project Manager, Software architecture | Project Manager         |
+| **Luana Mennuti**    | Game Designer, 3D artist, UI/UX Design      | Core Team               |
+| **Alessandro Ricci** | CTO, Technical Artist                       | Core Team               |
+| **Matteo Manicone**  | CFO, Marketing Manager                      | Core Team e Facilitator |
+| **Sabatino Panella** | 2D, Character e Environment Artist          | Core Team               |
+| **Dominic Sambucco** | Sound Designer e Musicista                  | Core Team               |
 
 ## Market Analysis
 
@@ -54,10 +52,11 @@ A seguito dell'analisi, sono stati identificati i seguenti punti chiave:
 
 ## POS
 
-Di seguito sono riportati i punti chiave del POS, che forniscono una panoramica
+Sono riportati i punti chiave del POS, che forniscono una panoramica
 del progetto e delle sue caratteristiche principali:[POS](POS.md).
 
-Assieme ai vari allegati utili a valutare e validare le decisioni prese:
+Di seguito gli allegati utili a valutare e validare le decisioni prese:
+
 - [Risk Analysis](Risk-Analysis.md)
 - [Feasibility studies](Feasibility-studies.md)
 

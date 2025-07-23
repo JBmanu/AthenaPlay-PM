@@ -1,7 +1,5 @@
 # 1-Meeting
 
-## Context & Introduction
-
 Ha avuto inizio il primo meeting di scoping relativo al progetto aziendale di AthenaStudios
 S.R.L.S.
 Duarnte l'incontro, ciascun partecipante si è presentato, illustrando le proprie
@@ -19,9 +17,9 @@ membri del team su ciò che si desidera ottenere, facilitando la pianificazione 
 attività future.
 
 Per migliorare la leggibilità e la comprensione del documento, si è deciso di strutturare
-le informazioni in n categorie principali:
+le informazioni in 4 categorie principali:
 
-- Gameplay
+- Sviluppo
 - Economia
 - Tecnologia
 - Marketing
@@ -44,18 +42,18 @@ per garantire una discussione efficace e produttiva.
 
 | Categoria            | Desideri                                                                                       |
 |----------------------|------------------------------------------------------------------------------------------------|
-| Economia             | Ottenere un ritorno economico per sostenere l'azienda, il team e un prossimo progetto.         |                         
-| Economia e Marketing | Generare entrate ricorrenti tramite DLC, merchandising o versioni fisiche.                     |
+| Economia             | Ottenere un ritorno economico per sostenere l'azienda, il team e un prossimo progetto.         |
+| Economia e Sviluppo  | Generare entrate ricorrenti tramite DLC, merchandising o versioni fisiche.                     |
 | Marketing            | Costruire una community attiva, partecipe e fidelizzata nel tempo.                             |
 | Marketing            | Ottenere visibilità attraverso festival, premi e copertura media specializzata.                |
 | Marketing            | Pianificare un supporto post-lancio efficace: bugfix, aggiornamenti, gestione della community. |
-| Gameplay e Marketing | Localizzare il gioco per un pubblico internazionale, ampliando la portata globale.             |
-| Gameplay e Marketing | Pubblicare il gioco su console: PlayStation, Xbox e Nintendo Switch.                           |
-| Gameplay e Marketing | Sviluppare un titolo dalla durata di almeno 20 ore.                                            |
-| Gameplay e Marketing | Lanciare il primo capitolo di un potenziale franchise.                                         |
-| Gameplay             | Creare un gioco originale e di alta qualità che si distingua nel mercato.                      |
-| Gameplay             | Creare una narrativa coinvolgente, originale e adatta al target.                               |
-| Gameplay             | Creare un sistema di progressione e ricompense che incentivi il coinvolgimento.                |
+| Sviluppo e Marketing | Localizzare il gioco per un pubblico internazionale, ampliando la portata globale.             |
+| Sviluppo e Marketing | Pubblicare il gioco su console: PlayStation, Xbox e Nintendo Switch.                           |
+| Sviluppo e Marketing | Sviluppare un titolo dalla durata di almeno 20 ore.                                            |
+| Sviluppo e Marketing | Lanciare il primo capitolo di un potenziale franchise.                                         |
+| Sviluppo             | Creare un gioco originale e di alta qualità che si distingua nel mercato.                      |
+| Sviluppo             | Creare una narrativa coinvolgente, originale e adatta al target.                               |
+| Sviluppo             | Creare un sistema di progressione e ricompense che incentivi il coinvolgimento.                |
 | Tecnologia           | Utilizzare strumenti moderni e affidabili per lo sviluppo.                                     |
 
 ### Bisogni
@@ -63,16 +61,16 @@ per garantire una discussione efficace e produttiva.
 | Categoria            | Bisogni                                                                                                        |
 |----------------------|----------------------------------------------------------------------------------------------------------------|
 | Economia             | Costruire tramite il gioco un forte potenziale commerciale, con un ritorno sugli investimenti.                 |
-| Economia             | Reperire finanziamenti adeguati: investitori, publisher, bandi pubblici, crowdfunding.                         |
 | Economia e Marketing | Analizzare il mercato per identificare tendenze, competitor, spazi di opportunità e il pubblico di riferimento |
+| Economia e Marketing | La durata massima dello sviluppo è di 3 anni                                                                   |
 | Marketing            | Elaborare un piano di marketing strutturato, con obiettivi chiari e strategie multicanale.                     |
-| Gameplay e Marketing | La durata massima dello sviluppo è di 3 anni                                                                   |
-| Gameplay e Marketing | Creare un'esperienza di gioco che duri almeno 15 ore                                                           |
-| Gameplay e Marketing | Localizzare il gioco nelle lingue principali.                                                                  |
-| Gameplay e Marketing | Lanciare il gioco inizialmente su PC.                                                                          |
-| Gameplay             | Definire il concept del gioco, il genere e il tono narrativo.                                                  |
-| Gameplay             | Sviluppare il gioco, giocabile solo offline, senza dipendenze da server esterni.                               |
-| Gameplay             | Partire da un nucleo di meccaniche solide, integrando innovazioni che ne esaltino il valore.                   |
+| Sviluppo e Marketing | Creare un'esperienza di gioco che duri almeno 15 ore                                                           |
+| Sviluppo e Marketing | Localizzare il gioco nelle lingue principali.                                                                  |
+| Sviluppo e Marketing | Lanciare il gioco inizialmente su PC.                                                                          |
+| Sviluppo             | Definire il concept del gioco, il genere e il tono narrativo.                                                  |
+| Sviluppo             | Creare la musica e gli effetti sonori che si integrino con l'atmosfera del gioco.                              |
+| Sviluppo             | Sviluppare il gioco, giocabile solo offline, senza dipendenze da server esterni.                               |
+| Sviluppo             | Partire da un nucleo di meccaniche solide, integrando innovazioni che ne esaltino il valore.                   |
 | Tecnologia           | Selezionare le tecnologie di sviluppo (motore di gioco, strumenti grafici, middleware).                        |
 
 ## Stato del progetto
@@ -86,6 +84,7 @@ per garantire una discussione efficace e produttiva.
 ### TO-BE
 
 - Sviluppare un gioco, giocabile solo offline, senza dipendenze da server esterni.
+- Creare la musica e gli effetti sonori che si integrino con l'atmosfera del gioco.
 - Costruire una narrativa minimalle e coinvolgente.
 - Utilizzare tecnologie moderne per garantire qualità e buone prestazioni.
 - Inserire meccaniche solide e innovative per attrarre il pubblico.
@@ -125,19 +124,19 @@ Si elencano di seguito le sfide e le opportunità che il progetto intende affron
 
 ### Sfida
 
-- Con poco capitale iniziale, è essenziale ottimizzare le risorse.
-- Senza un piano chiaro, è difficile attrarre investitori.
+- Distribuite le risorse in modo efficace per garantire un ritorno economico.
+- Coordinare le attività del team per tutti gli aspetti del progetto.
+- Senza un piano chiaro ed efficace, il progetto rischia di fallire.
 - Senza un’analisi di mercato, si rischiano investimenti inefficaci e prodotti fuori target.
 - Serve un’idea distintiva per emergere in un mercato competitivo.
 - Il rapido cambiamento del settore richiede sviluppo veloce.
-- Formare un team qualificato è una sfida costante.
+- Formare un team coeso e qualificato è una sfida costante.
 - Senza una community attiva, la visibilità è limitata.
 - Le tecnologie moderne richiedono competenze specifiche e aggiornate.
 
 ### Opportunità
 
 - Ingresso in un mercato in crescita con potenziale di guadagno.
-- Il networking con investitori porta risorse e visibilità.
 - Il mercato è in espansione, con nuove nicchie da esplorare e riscoprire.
 - Le tecnologie emergenti offrono strumenti avanzati.
 - La creazione di un team qualificato favorisce crescita e stabilità.
