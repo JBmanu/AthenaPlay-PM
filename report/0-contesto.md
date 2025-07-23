@@ -36,7 +36,7 @@ I soci fondatori di AthenaStudios S.R.L.S. sono:
 |----------------------|-------------------------------------------------------------|
 | **Manuel Buizo**     | CEO, Project Manager, Software architecture e Programmatore |
 | **Luana Mennuti**    | Game Designer, 3D artist, UI/UX Design e Programmatore      |
-| **Alessandro Ricci** | CTO e Technical Artist                                      |
+| **Alessandro Ricci** | CTO, Technical Artist e programmatore                       |
 | **Sabatino Panella** | 2D, Character e Environment Artist                          |
 | **Matteo Manicone**  | CFO e Marketing Manager                                     |
 | **Dominic Sambucco** | Sound Designer e Musicista                                  |
