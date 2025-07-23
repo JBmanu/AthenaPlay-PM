@@ -70,7 +70,7 @@ per garantire una discussione efficace e produttiva.
 | Sviluppo             | Definire il concept del gioco, il genere e il tono narrativo.                                                  |
 | Sviluppo             | Creare la musica e gli effetti sonori che si integrino con l'atmosfera del gioco.                              |
 | Sviluppo             | Sviluppare il gioco, giocabile solo offline, senza dipendenze da server esterni.                               |
-| Sviluppo             | Partire da un nucleo di meccaniche solide, integrando innovazioni che ne esaltino il valore.                   |
+| Sviluppo             | Partire da un nucleo di meccaniche solide, integrando orinalità che ne esaltino il valore.                     |
 | Tecnologia           | Selezionare le tecnologie di sviluppo (motore di gioco, strumenti grafici, middleware).                        |
 
 ## Stato del progetto
@@ -87,7 +87,7 @@ per garantire una discussione efficace e produttiva.
 - Creare la musica e gli effetti sonori che si integrino con l'atmosfera del gioco.
 - Costruire una narrativa minimalle e coinvolgente.
 - Utilizzare tecnologie moderne per garantire qualità e buone prestazioni.
-- Inserire meccaniche solide e innovative per attrarre il pubblico.
+- Inserire meccaniche solide e originali per attrarre il pubblico.
 - Costruire un'identità solida sui social media.
 - Localizzare il gioco nelle principali lingue internazionali.
 - Offrire un'esperienza di gioco con una durata minima di 15 ore.

@@ -45,7 +45,7 @@ pieOuterStrokeWidth: "5px"
 ---
 pie showData
     title Costi di produzione
-    "Personale": 84.15
+    "Personale": 82.15
     "Software": 3.58
     "Hardware": 2.16
     "Marketing": 3.49
@@ -116,12 +116,12 @@ bar [87956, 879560, 4397800, 834240, 1759120, 2638680]
 
 | Voce           | Copie   | Ricavo lordo | Ricavo netto | Ritorno sull'investimento | ROI     |
 |----------------|---------|--------------|--------------|---------------------------|---------|
-| Vendite minime | 10.000  | € 199.900    | € 87.956     | € -739.684                | 10,63%  |
-| Vendite medie  | 100.000 | € 1.999.000  | € 879.560    | € 51.920                  | 105,43% |
-| Vendite ottime | 500.000 | € 9.995.000  | € 4.397.800  | € 3.570.160               | 527,16% |
+| Vendite minime | 10.000  | € 199.900    | € 87.956     | -€ 746.284                | 10,63%  |
+| Vendite medie  | 100.000 | € 1.999.000  | € 879.560    | € 45.320                  | 105,43% |
+| Vendite ottime | 500.000 | € 9.995.000  | € 4.397.800  | € 3.563.560               | 527,16% |
 | Breakeven      | 94.847  | € 1.896.000  | € 834.240    | € 0,00                    | 100,00% |
-| ritorno medio  | 200.000 | € 3.998.000  | € 1.759.120  | € 931.480                 | 210,86% |
-| ritorno ottimo | 300.000 | € 5.997.000  | € 2.638.680  | € 1.811.040               | 316,30% |
+| ritorno medio  | 200.000 | € 3.998.000  | € 1.759.120  | € 924.880                 | 210,86% |
+| ritorno ottimo | 300.000 | € 5.997.000  | € 2.638.680  | € 2.638.680               | 316,30% |
 
 ## Return on investment
 
@@ -142,5 +142,3 @@ Si sono prese in considerazione per avere un vantaggio e una prospettiva di cres
 width="100%" height="400px" frameborder="0"></iframe>
 
 ## Potential investors
-
-- faccio appena ho un pelo di tempo

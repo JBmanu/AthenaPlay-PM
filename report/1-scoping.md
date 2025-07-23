@@ -33,7 +33,7 @@ definizione del progetto.
 - [Market Analysis](scoping/Market-Analysis.md)
 - [POS](scoping/POS.md): project overview statement
     - [Risk Analysis](scoping/Risk-Analysis.md)
-    - [Feasibility studies](scoping/Feasibility-studies.md)
+    - [Feasibility studies](scoping/Feasibility-Studies.md)
 - [Business Model](scoping/2-meeting.md)
 - requisiti: [RBS](scoping/RBS.md) (requirement breakdown structure), business process, prototype, business validation,
   SWAT analysis

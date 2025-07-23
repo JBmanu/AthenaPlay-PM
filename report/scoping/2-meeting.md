@@ -49,6 +49,7 @@ A seguito dell'analisi, sono stati identificati i seguenti punti chiave:
 - **Piattaforme di distribuzione**: PC, console (PlayStation, Xbox, Nintendo Switch)
 - **Target di mercato**: 15-35 anni
 - **Localizzazione del gioco**: Nord America, Europa, Giappone, Corea, Sud America
+- **Stile artistico**: Pixel Art Moderna, 2.5D
 
 ## POS
 
@@ -58,7 +59,7 @@ del progetto e delle sue caratteristiche principali:[POS](POS.md).
 Di seguito gli allegati utili a valutare e validare le decisioni prese:
 
 - [Risk Analysis](Risk-Analysis.md)
-- [Feasibility studies](Feasibility-studies.md)
+- [Feasibility studies](Feasibility-Studies.md)
 
 ## Business Model
 

@@ -16,10 +16,11 @@ coinvolgente e di attrarre un pubblico ampio e diversificato.
 
 ## Objectives
 
-- Creare un gioco, giocabile solo offline.
+- Gioco giocabile solo offline.
+- Costruire meccaniche solide e originali per attrarre il pubblico, tra cui:
+  combattimento, esplorazione, progressione del personaggio e sistema di ricompense.
 - Sviluppare un gioco con una durata minima di 15 ore.
 - Utilizzare tecnologie moderne per garantire qualità e buone prestazioni.
-- Inserire meccaniche solide e innovative per attrarre il pubblico.
 - Costruire un'identità solida sui social media: Instagram, Twitter, Reddit.
 - Localizzare il gioco nelle lingue: inglese, italiano, Japponese, spagnolo.
 - Lanciare inizialmente il gioco su PC (tramite Steam).
@@ -56,5 +57,5 @@ progetto: [Risk Analysis](Risk-Analysis.md).
 
 Per dare validità alle decisioni prese, sono state condotte analisi finanziarie
 per valutare la fattibilità del progetto e le potenzialità di ritorno economico:
-[Feasibility studies](Feasibility-studies.md).
+[Feasibility studies](Feasibility-Studies.md).
 
