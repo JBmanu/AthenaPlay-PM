@@ -14,7 +14,7 @@ I successivi rischi sono stati classificati secondo:
 
 - **Scope Triangle**: legato ad un aspetto del progetto (tempo, risorse/costo o scopo/qualità).
 - **Impatto**: riguardante la gravita del rischio come bassa, media o alta.
-- **Azione**: l'azione risolutiva per mitigate il rischio, che può essere
+- **Azione**: l'azione risolutiva per gestire il rischio, che può essere
     - **Mitigate**: ridurre la probabilità o l'impatto del rischio.
     - **Avoid**: evitare completamente il rischio.
     - **Transfer**: trasferire il rischio a terzi (es. assicurazione).
@@ -26,12 +26,11 @@ I successivi rischi sono stati classificati secondo:
 | Rischio                                                                   | Scope Triangle | Impatto | Azione      |
 |---------------------------------------------------------------------------|----------------|---------|-------------|
 | 🎯 Il gioco potrebbe non risultare divertente o bilanciato.               | Scopo/Qualità  | Alta    | Avoid       |
-| 📉 Scarso interesse del pubblico per il genere o saturazione del mercato. | Scopo/Qualità  | Alta    | Avoid       |
+| 📉 Scarso interesse del pubblico per il genere o saturazione del mercato. | Scopo/Qualità  | Alta    | Contingency |
 | 🛠 Problemi di performance o bug critici che emergono troppo tardi.       | Tempo          | Alta    | Mitigate    |
 | 💰 Superamento del budget o mancanza di ritorno economico.                | Risorse/Costo  | Media   | Contingency |
-| 📣 Difficoltà nel raggiungere il target senza publisher o PR forti.       | Scopo/Qualità  | Media   | Transfer    |
-| 🕒 Ritardi nello sviluppo che impattano sul lancio.                       | Tempo          | Media   | Contingency |
-| 🔁 Difficoltà nel supportare il gioco post-lancio (patch, feedback, DLC). | Tempo          | Media   | Contingency |
+| 📣 Difficoltà nel raggiungere il target senza publisher.                  | Scopo/Qualità  | Media   | Transfer    |
+| 🕒 Ritardi nello sviluppo che impattano sul lancio.                       | Tempo          | Media   | Mitigate    |
 | ⚖ Violazioni involontarie di copyright (musica, asset, nomi simili).      | Scopo/Qualità  | Bassa   | Accept      |
 | 👥 Perdita di membri chiave o problemi di collaborazione.                 | Risorse/Costo  | Bassa   | Mitigate    |
 

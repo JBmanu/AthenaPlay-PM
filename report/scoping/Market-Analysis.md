@@ -112,7 +112,28 @@ frequenza di successo e resa commerciale.
 | 2024 | *Black Myth: Wukong* | Action RPG (AA-indie)     | \$59.99 | \~\$100M       | \~20.6M | \~\$1.23B      | \~12x   | \~5 anni    | \~30–50 ore        |
 | 2024 | *Palworld*           | Creature / Sim            | \$29.99 | \~\$10M        | \~20.1M | \~\$600M+      | \~60x   | \~3 anni    | \~30–150+ ore      |
 
-## Analisi e scelta della grafica
+### Analisi dei potenziali agenzie di PR
+
+Per supportare il lancio e la promozione del gioco, sono state analizzate diverse
+agenzie di PR specializzate nel settore videoludico, con particolare attenzione
+a quelle con esperienza nel supporto di titoli Indie e AA.
+Nella selezione sono stati considerati anche i vincoli di budget e le piattaforme
+di distribuzione, al fine di individuare le agenzie più adatte alle dimensioni e
+agli obiettivi del progetto.
+In particolare, è emerso che l'agenzia **Future Friends Games** si distingue per la
+sua specializzazione nel settore indie e per la solida presenza su piattaforme
+strategiche come Steam e YouTube, rendendola una scelta particolarmente indicata
+per il lancio di titoli indipendenti.
+
+| Agenzia PR               | Durata Tipica | Stima Costo Unico (€) | Descrizione                                                                                 |
+|--------------------------|---------------|-----------------------|---------------------------------------------------------------------------------------------|
+| **Future Friends Games** | 2–3 mesi      | 8.000 – 15.000        | Specializzata in giochi indie, ottima copertura Steam, YouTube, eventi come Steam Next Fest |
+| **Vicarious PR**         | 2–3 mesi      | 9.000 – 15.000        | Strategia globale, forte presenza in USA e UK, ottimo network influencer e media            |
+| **Evolve PR**            | 3 mesi        | 12.000 – 20.000       | Agenzia full-service con focus su console, media di alto profilo e copertura internazionale |
+| **Gamesight**            | 2–3 mesi      | 8.000 – 14.000        | Forte su Steam e performance tracking, buona per lanci globali indie                        |
+| **Plan of Attack**       | 2–3 mesi      | 7.000 – 13.000        | Ottima per media europei, specializzata in giochi indie con buona rete stampa               |
+
+## Analisi e direzione grafica
 
 È stato analizzato l’impatto della grafica e dello stile artistico nei diversi
 titoli Indie e AA, al fine di confrontare efficacemente le opzioni di sviluppo
@@ -126,13 +147,67 @@ e stimare con maggiore precisione le risorse necessarie.
 | **Low-poly stilizzato 3D**                          | 3D             | *Risk of Rain 2*, *Skul*, *Necesse*, *Gunfire Reborn*      | Estetica accessibile ma moderna, facile da animare           | Buona resa 3D senza pesare sul sistema, effetto moderno  | Richiede gestione 3D, più programmazione/rigging          | 💲💲💲💲 (medio-alto)       | Steam gamer, appassionati tech, coop online                     | ❤️ Buono, se leggibile e fluido          | 2019–oggi (in espansione)         |
 | **3D realistico o semi-realistico (High Fidelity)** | 3D             | *Returnal* (non indie), *Mortal Shell* (AA)                | Estetica immersiva, adatta a mood cupi o dark fantasy        | Grande impatto visivo, storytelling visivo forte         | Costosissimo, animazioni e asset pesanti                  | 💲💲💲💲💲 (alto-altissimo) | Hardcore, utenti console, appassionati souls-like               | 💔 Rischioso per indie: aspettative alte | 2010–oggi, ma difficile per indie |
 
-È emerso che la scelta grafica più adatta al tipo di gioco è la **Pixel Art Modern**a, 
-in quanto offre un buon equilibrio tra costi di sviluppo, accessibilità tecnica e 
+È emerso che la scelta grafica più adatta al tipo di gioco è la **Pixel Art Modern**a,
+in quanto offre un buon equilibrio tra costi di sviluppo, accessibilità tecnica e
 gradimento da parte del pubblico.
-Per ottenere un impatto visivo più rilevante e attuale, è stata selezionata una 
-combinazione di **2.5D** e **Pixel Art Moderna**, capace di unire un’estetica nostalgica 
-a elementi di modernità, senza compromettere le prestazioni né la leggibilità del 
+Per ottenere un impatto visivo più rilevante e attuale, è stata selezionata una
+combinazione di **2.5D** e **Pixel Art Moderna**, capace di unire un’estetica nostalgica
+a elementi di modernità, senza compromettere le prestazioni né la leggibilità del
 gameplay.
-Questa scelta risulta coerente con le attuali tendenze del mercato indie, dove 
-la Pixel Art continua a essere altamente riconoscibile e apprezzata, in 
+Questa scelta risulta coerente con le attuali tendenze del mercato indie, dove
+la Pixel Art continua a essere altamente riconoscibile e apprezzata, in
 particolare da giocatori giovani e nostalgici.
+
+## Analisi della narrativa
+
+Da un’analisi approfondita degli elementi narrativi nei giochi Indie e AA,
+è emerso che una narrativa efficace si basa su pochi elementi chiave,
+progettati per integrarsi armoniosamente con le dinamiche del gameplay roguelite.
+
+Un mistero centrale guida la scoperta e incentiva la rigiocabilità, mentre
+il ciclo di morte e rinascita viene giustificato all’interno della trama, rendendo
+ogni run parte integrante del racconto.
+
+La narrazione ambientale, supportata da pochi NPC significativi, consente di
+trasmettere il lore in modo implicito, favorendo l’immersione.
+La struttura non lineare permette a ciascun giocatore di ricostruire la storia
+secondo il proprio percorso, rafforzando il senso di coinvolgimento.
+
+Il tutto deve essere unificato da un tono coerente e da una direzione artistica
+distintiva, per offrire un’esperienza narrativa solida, immersiva e memorabile.
+
+| Aspetto                         | Ruolo nella narrazione         |
+|---------------------------------|--------------------------------|
+| **Mistero iniziale**            | Stimola curiosità              |
+| **Narrativa ambientale**        | Immersione silenziosa          |
+| **Loop giustificato**           | Coerenza mondo-gioco           |
+| **Personaggi memorabili**       | Emozione e lore                |
+| **Scelte morali/ramificazioni** | Coinvolgimento e rigiocabilità |
+| **Progressione parallela**      | Soddisfazione narrativa        |
+| **Estetica unica**              | Identità memorabile            |
+
+### Possibili agenzie narrative
+
+Sono stati analizzati diversi studi e aziende specializzate nella scrittura
+di narrativa per videogiochi, con particolare attenzione a ottenere
+gli elementi chiave per un gioco Indie e AA. È emerso che lo studio più
+adatto al progetto è **Ink Kit Studios**, grazie alla sua esperienza
+con titoli affini e al focus sulla costruzione di mondi complessi
+e storie altamente coinvolgenti.
+
+| Studio / Azienda          | Costo stimato narrativa (30k–50k parole) | Lingue principali supportate    | Note aggiuntive                                                |
+|---------------------------|------------------------------------------|---------------------------------|----------------------------------------------------------------|
+| **Sweet Baby Inc**        | \$12.000 – \$25.000                      | Inglese (madrelingua), spagnolo | Inclusività e narrazione moderna, ottimo per testi lunghi      |
+| **Ink Kit Studios**       | \$15.000 – \$30.000                      | Inglese, francese, tedesco      | Forte in worldbuilding e narrativa estesa                      |
+| **Critique Gaming**       | \$13.000 – \$26.000                      | Inglese, francese, italiano     | Specializzati in game design narrativo e storytelling profondo |
+| **Beyond the Screenplay** | \$24.000 – \$50.000+                     | Inglese                         | Adatto a narrativa AAA, scripting complessi                    |
+
+
+
+
+
+
+
+
+
+

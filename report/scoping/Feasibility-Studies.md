@@ -11,6 +11,8 @@ sostenibilità economica e il potenziale ritorno sugli investimenti.
 
 ### Team coinvolto (ruoli e numero)
 
+**Costo del team core**: € 648.000 (€ 3.000/mese/persona)
+
 Core team di 6 persone, con competenze in project management, game design,
 programmazione, arte 2D/3D, sound design e marketing.
 
@@ -33,7 +35,9 @@ Collaboratori:
 
 ## Cost/benefit analysis
 
-**Costi totali**: € 834.240
+- **Costi d'investimento**: € 159.225
+- **Costi personale**: € 648.000
+- **Costi totali**: € 807.225
 
 ```mermaid
 ---
@@ -44,42 +48,42 @@ themeVariables:
 pieOuterStrokeWidth: "5px"
 ---
 pie showData
-    title Costi di produzione
-    "Personale": 82.15
-    "Software": 3.58
-    "Hardware": 2.16
-    "Marketing": 3.49
+    title Distribuzione degli investimenti
+    "Collaboratori": 33.91
+    "Software": 7.47
+    "Hardware": 11.30
+    "Marketing": 38.22
     "Varie e imprevisti": 9.09
 ```
 
 ### Costi di sviluppo
 
-**Totale sviluppo**: € 805.090
+**Totale sviluppo**: € 92.290
 
 | Voce                         | Costo stimato | Note                                              |
 |------------------------------|---------------|---------------------------------------------------|
-| **Stipendi team core**       | € 648.000     | €3.000/mese/persona                               |
 | **Freelance artisti**        | € 54.000      | Progetto parziale (1 anno)                        |
 | **Licenze software**         | € 5.000       | Include asset tool e IDE                          |
 | **Asset & plugin**           | € 6.000       | Su Unity Asset Store e simili                     |
 | **GitHub (Teams + Actions)** | € 900         | €25/mese per 3 anni                               |
 | **Hardware e upgrade**       | € 18.000      | Sostituzioni totale                               |
 | **CI e testing automatico**  | € 0           | Incluso in GitHub Actions (fino a 2.000 min/mese) |
-| **Varie e imprevisti (10%)** | € 73.190      | Calcolato sul subtotale sviluppo                  |
+| **Varie e imprevisti (10%)** | € 8.390       | Calcolato sul subtotale sviluppo                  |
 
 ### Costi di marketing e pubblicazione
 
-**Totale marketing**: € 29.150
+**Totale marketing**: € 66.935
 
-| Voce                            | Costo stimato        | Note                             |
-|---------------------------------|----------------------|----------------------------------|
-| Sito, dominio, email            | € 500                | Branding base                    |
-| Trailer professionale           | € 4.000              | Reveal e launch                  |
-| Grafica marketing / cover store | € 2.000              | illustrazioni, assets            |
-| Campagne ADV (meta/steam ads)   | € 10.000             | 3 fasi: reveal, wishlist, lancio |
-| Localizzazione (5 lingue)       | € 10.000             | ITA, ENG, JAP, SPA               |
-| Commissioni store (Steam 30%)   | Incluso sotto ricavi | Non anticipati                   |
-| **Varie e imprevisti (10%)**    | € 2.650              | Calcolato sul subtotale          |
+| Voce                          | Costo stimato        | Note                             |
+|-------------------------------|----------------------|----------------------------------|
+| Sito, dominio, email          | € 500                | Branding base                    |
+| Trailer professionale         | € 4.000              | Reveal e launch                  |
+| Campagne ADV (meta/steam ads) | € 10.000             | 3 fasi: reveal, wishlist, lancio |
+| PR agency per videogiochi     | € 15.000             | Gestione della pubblicizzazione  |
+| Narrazione                    | € 18.750             | inglese                          |
+| Localizzazione (4 lingue)     | € 12.600             | IT, ES, JA, ZH                   |
+| Commissioni store (Steam 30%) | Incluso sotto ricavi | Non anticipati                   |
+| **Varie e imprevisti (10%)**  | € 6.085              | Calcolato sul subtotale          |
 
 ### Stima dei ricavi potenziali
 
@@ -88,7 +92,7 @@ pie showData
 - **Tasse Italiane**: 26%
 - **Ricavo vendita**: € 13,99
 - **Ricavo netto**: € 8,80
-- **Breakeven**: 94.097 copie
+- **Breakeven**: 91.776 copie
 - **Ritorno sull'investimento ottimo**: 300.000 copie
 
 ```mermaid
@@ -110,18 +114,18 @@ xychart-beta
     title "Stima dei potenziali ricavi"
 x-axis "Copie" [10000, 100000, 500000, 94847, 200000, 300000]
 y-axis "Ricavo netto (in €)" 5000 --> 5000000
-bar [87956, 879560, 4397800, 834240, 1759120, 2638680]
+bar [87956, 879560, 4397800, 807225, 1759120, 2638680]
 %%line [87956, 879560, 4397800, 834240, 1759120, 2638680]
 ```
 
-| Voce           | Copie   | Ricavo lordo | Ricavo netto | Ritorno sull'investimento | ROI     |
-|----------------|---------|--------------|--------------|---------------------------|---------|
-| Vendite minime | 10.000  | € 199.900    | € 87.956     | -€ 746.284                | 10,63%  |
-| Vendite medie  | 100.000 | € 1.999.000  | € 879.560    | € 45.320                  | 105,43% |
-| Vendite ottime | 500.000 | € 9.995.000  | € 4.397.800  | € 3.563.560               | 527,16% |
-| Breakeven      | 94.847  | € 1.896.000  | € 834.240    | € 0,00                    | 100,00% |
-| ritorno medio  | 200.000 | € 3.998.000  | € 1.759.120  | € 924.880                 | 210,86% |
-| ritorno ottimo | 300.000 | € 5.997.000  | € 2.638.680  | € 2.638.680               | 316,30% |
+| Voce           | Copie   | Ricavo lordo   | Ricavo netto | Ritorno sull'investimento | ROI     |
+|----------------|---------|----------------|--------------|---------------------------|---------|
+| Vendite minime | 10.000  | € 199.900      | € 87.956     | -€ 719.269                | 10,90%  |
+| Vendite medie  | 100.000 | € 1.999.000    | € 879.560    | € 72.335                  | 108,96% |
+| Vendite ottime | 500.000 | € 9.995.000    | € 4.397.800  | € 3.590.575               | 544,80% |
+| Breakeven      | 91.776  | € 1.834.602,27 | € 807.225    | € 0,00                    | 100,00% |
+| ritorno medio  | 200.000 | € 3.998.000    | € 1.759.120  | € 951.895                 | 217,92% |
+| ritorno ottimo | 300.000 | € 5.997.000    | € 2.638.680  | € 1.831.455               | 326,88% |
 
 ## Return on investment
 
