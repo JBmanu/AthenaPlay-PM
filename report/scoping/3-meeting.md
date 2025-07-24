@@ -9,8 +9,8 @@ ottenere un documento di scoping completo e coerente.
 ## Scopo del meeting
 
 Lo scopo del meeting è stato quello di approfondire le decisioni emerse durante
-il secondo incontro, approfondire i requisiti progettuali e definire le modalità
-di sviluppo. A tal fine, sono stati prodotti sia l'albero dei requisiti (RBS –
+il secondo incontro, definendo i requisiti progettuali e le modalità di sviluppo.
+A tal fine, sono stati prodotti sia l'albero dei requisiti (RBS –
 Requirement Breakdown Structure) sia il modello PMLC (Project Management Life Cycle),
 strumenti fondamentali per guidare il team nella realizzazione del progetto."
 
@@ -29,6 +29,23 @@ documento completo e coerente
 | **Sabatino Panella** | 2D, Character e Environment Artist          | Core Team                     |
 | **Dominic Sambucco** | Sound Designer e Musicista                  | Core Team                     |
 
-## requisiti: RBS (requirement breakdown structure), business process, prototype, business validation, SWAT analysis
+## Requisiti
+
+Durante la definizione dell’albero dei requisiti (RBS), è stato necessario analizzare
+in profondità tutte le sfaccettature del progetto, suddividendolo in milestone ben
+definite.
+Per ottenere un documento completo e strutturato, è stato utilizzato l’**event modeling**
+al fine di identificare e chiarire tutti i requisiti, sia funzionali che non
+funzionali.
+Inoltre, è stata condotta un’analisi SWOT per evidenziare i punti di forza,
+le debolezze, le opportunità e le minacce del progetto, con l’obiettivo di orientare
+le decisioni strategiche e definire correttamente le priorità di sviluppo.
+
+Di seguito sono riportati i documenti prodotti:
+
+- **[RBS](RBS.md) (requirement breakdown structure)**
+    - **[SWOT Analysis](SWOT-Analysis.md)**
 
 ## Modello PMLC: project management life cycle
+
+[//]: # (- **[PMLC]&#40;PMLC.md&#41;**)

@@ -32,8 +32,8 @@ definizione del progetto.
 - [CoS](scoping/1-meeting.md): Conditions of Satisfaction
 - [Market Analysis](scoping/Market-Analysis.md)
 - [POS](scoping/POS.md): project overview statement
-    - [Risk Analysis](scoping/Risk-Analysis.md)
     - [Feasibility studies](scoping/Feasibility-Studies.md)
+    - [Risk Analysis](scoping/Risk-Analysis.md)
 - [Business Model](scoping/2-meeting.md)
 - requisiti: [RBS](scoping/RBS.md) (requirement breakdown structure), business process, prototype, business validation,
   SWAT analysis

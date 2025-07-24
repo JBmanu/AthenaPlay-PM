@@ -11,7 +11,7 @@ con un forte potenziale commerciale.
 Il progetto si basa sull’impegno diretto dei soci/team fondatori, che mettono
 a disposizione competenze professionali nel settore videoludico, esperienza
 pregressa nello sviluppo di giochi tramite Unity e un capitale iniziale pari
-a 2 milioni di euro, con l'obiettivo di costituire un team coeso e qualificato,
+a 1 milione di euro, con l'obiettivo di costituire un team coeso e qualificato,
 avviare lo sviluppo del titolo, attrarre investitori e curare le attività di promozione.
 Il piano prevede investimenti specifici in marketing, comunicazione e
 successivamente alla costruzione di una community attiva e fidelizzata,
