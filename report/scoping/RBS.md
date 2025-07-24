@@ -112,6 +112,3 @@ chiaro le aspettative del progetto.
 
 <iframe src="https://miro.com/app/board/uXjVJat9vbM=/"
 width="100%" height="400px" frameborder="0"></iframe>
-
-![Event Storming](../../public/resources/event-storming.jpg)
-

@@ -48,4 +48,3 @@ Di seguito sono riportati i documenti prodotti:
 
 ## Modello PMLC: project management life cycle
 
-[//]: # (- **[PMLC]&#40;PMLC.md&#41;**)
