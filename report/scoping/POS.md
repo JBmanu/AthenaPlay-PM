@@ -27,7 +27,7 @@ grazie alla grafica pixel art moderna.
 - Sviluppare un gioco con una durata minima di 15 ore.
 - Costruire un'identità solida sui social media: Instagram, Twitter, Reddit.
 - Localizzare il gioco nelle lingue: cinese, italiano, Japponese, spagnolo.
-- Lanciare inizialmente il gioco su PC (tramite Steam).
+- Pubblicate il gioco su PC (tramite Steam).
 - Sviluppo completato entro 3 anni.
 
 ## Success Criteria
