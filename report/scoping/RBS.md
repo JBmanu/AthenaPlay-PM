@@ -63,7 +63,22 @@
     - Effetti ambientali
     - Voice over
         - Personaggi principali, NPC e nemici
-5. Meccaniche roguelite
+5. Testing
+    - Testi di funzionalità
+        - Simulazioni per meccaniche roguelite
+        - Simulazioni per meccaniche RPG
+        - Simulazioni per meccaniche Action
+        - Simulazioni per meccaniche di combattimento
+        - Simulazioni per l'interfaccia utente
+    - Test di usabilità
+        - Interfaccia rapida: minimizzare il numero di clic
+        - Comandi standardizzati: mouse e tastiera, gamepad
+    - Test di performance
+        - Framerate costante
+        - Ottimizzazione delle risorse
+    - Test di regressione
+        - Verifica delle funzionalità dopo ogni aggiornamento
+6. Meccaniche roguelite
     - Sistema di permadeath
     - Progressione persistente
     - Sistema di miglioramento
@@ -71,22 +86,22 @@
     - Sfide randomizzate
     - Sistemi di loot e esperienza
     - Sistemi di sbloccaggio: Hub
-6. Meccaniche Action
+7. Meccaniche Action
     - Combattimento
     - Nemici
     - Boss
     - Pattern di combattimento
-7. Meccaniche RPG
+8. Meccaniche RPG
     - Progressione del personaggio
     - Equipaggiamento
     - Sistema di dialogo e scelta
     - Albero delle abilità
-8. Bilanciamento
+9. Bilanciamento
     - Meccaniche
     - Statistiche
     - Armi
     - Nemici
-9. Narrativa
+10. Narrativa
     - Ricerca partner
     - Trama
     - Personaggi
@@ -94,10 +109,10 @@
     - Localizzazione
         - Ricerca di partner
         - Lingue: IT, ES, JP, ZH
-10. Fondi perduti
+11. Fondi perduti
     - Bandi italiani
     - Bandi europei
-11. Pubblicazione
+12. Pubblicazione
     - Ricerca di un PR
     - Social media: Instagram, Twitter, Reddit
     - Distribuzione tramite steam

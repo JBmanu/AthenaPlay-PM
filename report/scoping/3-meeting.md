@@ -35,8 +35,8 @@ Durante la definizione dell’albero dei requisiti (RBS), è stato necessario an
 in profondità tutte le sfaccettature del progetto, suddividendolo in milestone ben
 definite.
 Per ottenere un documento completo e strutturato, è stato utilizzato l’**event storming**
-al fine di identificare e chiarire tutti i requisiti, sia funzionali che non
-funzionali.
+al fine di identificare e chiarire tutti i requisiti, funzionali, non funzionali,
+globali e vincoli di produzione.
 Inoltre, è stata condotta un’analisi SWOT per evidenziare i punti di forza,
 le debolezze, le opportunità e le minacce del progetto, con l’obiettivo di orientare
 le decisioni strategiche e definire correttamente le priorità di sviluppo.
