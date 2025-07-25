@@ -48,3 +48,28 @@ Di seguito sono riportati i documenti prodotti:
 
 ## Modello PMLC: project management life cycle
 
+Si sono scelti di analizzare 4 principali aspetti del progetto, che sono stati
+suddivisi in 4 categorie principali, per facilitare la comprensione e la gestione del progetto:
+
+**Gioco**: **Adattiva** <br>
+Per lo sviluppo del gioco è stato scelto un approccio adattivo, che consente di
+rispondere in modo flessibile ai cambiamenti e ai requisiti emergenti, in un
+contesto influenzato da modifiche previste dovute a iterazioni e feedback.
+In questo modo si garantisce una maggiore capacità di adattamento ai cambiamenti
+di design e alle esigenze del mercato, mantenendo il focus sulla qualità.
+
+**Narrativa**: **Adattiva** <br>
+Per la narrativa, si è optato per un approccio adattivo, che permette di
+rispondere in modo flessibile alle esigenze creative e alle evoluzioni della storia,
+in un contesto in cui le modifiche sono previste e desiderate.
+
+**Localizzazione**: **Lineare** <br>
+Per la localizzazione è stato scelto un approccio lineare, che prevede una sequenza
+di fasi ben definite, dalla traduzione all'implementazione, al fine di garantire
+una gestione efficiente e sistematica del processo.
+
+**Pubblicizzazione**: **Lineare** <br>
+Per la promozione del gioco è stata adottata una strategia lineare, articolata in
+una serie di passaggi che vanno dal lancio iniziale alle successive attività
+promozionali. Questo approccio consente di coordinare efficacemente la comunicazione
+con lo sviluppo, assicurando una visibilità costante e coerente del progetto nel tempo.

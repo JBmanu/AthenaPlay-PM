@@ -31,11 +31,11 @@ definizione del progetto.
 
 - [CoS](scoping/1-meeting.md): Conditions of Satisfaction
 - [Market Analysis](scoping/Market-Analysis.md)
-- [POS](scoping/POS.md): project overview statement
+- [POS](scoping/POS.md): Project Overview Statement
     - [Feasibility studies](scoping/Feasibility-Studies.md)
     - [Risk Analysis](scoping/Risk-Analysis.md)
 - [Business Model](scoping/2-meeting.md)
-- requisiti: [RBS](scoping/RBS.md) (requirement breakdown structure), business process, prototype, business validation,
-  SWAT analysis
-- Modello PMLC: project management life cycle
+- [RBS](scoping/RBS.md): Requirement Breakdown Structure
+    - [SWAT analysis](scoping/SWOT-Analysis.md)
+- [Modello PMLC](scoping/3-meeting.md): project management life cycle
 

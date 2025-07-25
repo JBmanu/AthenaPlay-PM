@@ -126,4 +126,4 @@ visualizzare le interazioni tra gli eventi del sistema e di definire in modo
 chiaro le aspettative del progetto.
 
 <iframe src="https://miro.com/app/board/uXjVJat9vbM=/"
-width="100%" height="400px" frameborder="0"></iframe>
+width="100%" height="650px" frameborder="0"></iframe>
