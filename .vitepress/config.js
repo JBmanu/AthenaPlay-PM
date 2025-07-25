@@ -3,6 +3,7 @@ import {withMermaid} from "vitepress-plugin-mermaid";
 
 let reportPath = '/report'
 let scopingPath = reportPath + '/scoping'
+let planningPath = reportPath + '/planning'
 // https://vitepress.dev/reference/site-config
 
 
@@ -47,6 +48,17 @@ export default withMermaid(
                                 {text: 'SWOT Analysis', link: `${scopingPath}/SWOT-Analysis`},
                             ]
                         },
+                        {
+                            text: 'Planning',
+                            collapsed: true,
+                            items: [
+                                {text: '1-Session', link: `${planningPath}/1-session`},
+                                {text: '2-Session', link: `${planningPath}/2-session`},
+                                {text: '3-Session', link: `${planningPath}/3-session`},
+                                {text: 'WBS', link: `${planningPath}/WBS`},
+                                {text: 'Gantt', link: `${planningPath}/Gantt`},
+                            ]
+                        }
                     ]
 
                 }

@@ -73,3 +73,8 @@ Per la promozione del gioco è stata adottata una strategia lineare, articolata 
 una serie di passaggi che vanno dal lancio iniziale alle successive attività
 promozionali. Questo approccio consente di coordinare efficacemente la comunicazione
 con lo sviluppo, assicurando una visibilità costante e coerente del progetto nel tempo.
+
+### Conclusioni
+
+Si è scelto di adottare un approccio **adattivo** per il gioco e la narrativa,
+quindi si prevede di adottare la metodologia **SCRUM** (agile) per la gestione del progetto.
