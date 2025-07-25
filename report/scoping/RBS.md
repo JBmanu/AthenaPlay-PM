@@ -79,13 +79,14 @@
     - Test di regressione
         - Verifica delle funzionalità dopo ogni aggiornamento
 6. Meccaniche roguelite
+    - Hub: base di partenza
     - Sistema di permadeath
     - Progressione persistente
     - Sistema di miglioramento
     - Mappe procedurale
     - Sfide randomizzate
     - Sistemi di loot e esperienza
-    - Sistemi di sbloccaggio: Hub
+    - Sistemi di sbloccaggio (nel hub)
 7. Meccaniche Action
     - Combattimento
     - Nemici
@@ -112,7 +113,7 @@
 11. Fondi perduti
     - Bandi italiani
     - Bandi europei
-12. Pubblicazione
+12. Marketing
     - Ricerca di un PR
     - Social media: Instagram, Twitter, Reddit
     - Distribuzione tramite steam

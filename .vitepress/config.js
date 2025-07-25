@@ -52,9 +52,6 @@ export default withMermaid(
                             text: 'Planning',
                             collapsed: true,
                             items: [
-                                {text: '1-Session', link: `${planningPath}/1-session`},
-                                {text: '2-Session', link: `${planningPath}/2-session`},
-                                {text: '3-Session', link: `${planningPath}/3-session`},
                                 {text: 'WBS', link: `${planningPath}/WBS`},
                                 {text: 'Gantt', link: `${planningPath}/Gantt`},
                             ]

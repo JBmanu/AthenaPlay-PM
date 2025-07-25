@@ -8,10 +8,6 @@ quali sarà accompagnata da un documento di pianificazione specifico.
 
 ## Joint Project Planning Session
 
-- [1-Session](planning/1-session.md)
-- [2-Session](planning/2-session.md)
-- [3-Session](planning/3-session.md)
-
 Durante la Joint Project Planning Session, il team ha discusso e definito le
 attività necessarie per la realizzazione del progetto, stabilendo le priorità e
 le tempistiche per ciascuna fase. Sono stati identificati i principali rischi,
@@ -35,8 +31,21 @@ definire le caratteristiche principali del progetto e le sue finalità.
 | **Sabatino Panella** | 2D, Character e Environment Artist          | Core Team                     |
 | **Dominic Sambucco** | Sound Designer e Musicista                  | Core Team                     |
 
-## Documenti sviluppati
+## 1 Session / Kick-off
 
-- [WBS](planning/WBS.md): Work Breakdown Structure
-- [Gannt](planning/Gannt.md): Diagramma di Gantt
+La prima sessione è stata dedicata direttamente alla work-session (kick-off) del progetto,
+dato che il team stesso è stato coinvolto fin dall'inizio nella fase di raccolta dei
+requisiti e nella definizione del progetto. Durante questa sessione, si è svolto un incontro
+con il team per discutere le attività da svolgere, quindi allo sviluppo della
+[WBS](planning/WBS.md) (Work Breakdown Structure).
+
+Sono stati identificati una granularità di task adeguata da permettere successivamente
+di stimare i tempi di realizzazione e le risorse necessarie per ciascuna attività.
+
+## 2 Session / Planning
+
+- [Gannt](planning/Gantt.md): Diagramma di Gantt
+
+## 3 Session / Risk Management
+
 - [Risk Management Plan](planning/Risk-Management-Plan.md): Piano di gestione dei rischi
