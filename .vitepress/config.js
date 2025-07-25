@@ -23,15 +23,10 @@ export default withMermaid(
                     items: [
                         {text: 'Contesto', link: `${reportPath}/0-contesto`},
                         {text: 'Scoping', link: `${reportPath}/1-scoping`},
-                        {
-                            text: 'Valutazione proposte del committente',
-                            link: `${reportPath}/2-valutazione-proposte-committente`
-                        },
-                        {text: 'Project Overview Statement', link: `${reportPath}/3-POS`},
-                        {text: 'Analisi dei rischi', link: `${reportPath}/4-POS-AnalisiRischi`},
-                        {text: 'Requirements Breakdown Structure', link: `${reportPath}/5-RBS`},
-                        {text: 'PMLC Model', link: `${reportPath}/6-PMLC-model`},
-                        {text: 'Traduzione', link: `${reportPath}/7-traduzione`},
+                        {text: 'Planning', link: `${reportPath}/2-planning`},
+                        {text: 'Launching/Execution', link: `${reportPath}/3-launching-execution`},
+                        {text: 'Monitoring E controlling', link: `${reportPath}/4-monitoring-E-controlling`},
+                        {text: 'Closing', link: `${reportPath}/5-closing`},
                     ]
                 },
                 {

@@ -33,6 +33,7 @@ I successivi rischi sono stati classificati secondo:
 | 🕒 Ritardi nello sviluppo che impattano sul lancio.                       | Tempo          | Media   | Mitigate    |
 | ⚖ Violazioni involontarie di copyright (musica, asset, nomi simili).      | Scopo/Qualità  | Bassa   | Accept      |
 | 👥 Perdita di membri chiave o problemi di collaborazione.                 | Risorse/Costo  | Bassa   | Mitigate    |
+| 🧟‍♂️ Feature Creep                                                       | Scopo/Qualità  | Medio   | Mitigate    |
 
 
 
