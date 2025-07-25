@@ -31,20 +31,31 @@ definire le caratteristiche principali del progetto e le sue finalità.
 | **Sabatino Panella** | 2D, Character e Environment Artist          | Core Team                     |
 | **Dominic Sambucco** | Sound Designer e Musicista                  | Core Team                     |
 
-## 1 Session / Kick-off
+## 1 Session (Kick-off + Work session)
 
-La prima sessione è stata dedicata direttamente alla work-session (kick-off) del progetto,
-dato che il team stesso è stato coinvolto fin dall'inizio nella fase di raccolta dei
-requisiti e nella definizione del progetto. Durante questa sessione, si è svolto un incontro
-con il team per discutere le attività da svolgere, quindi allo sviluppo della
-[WBS](planning/WBS.md) (Work Breakdown Structure).
+La prima sessione è stata dedicata direttamente al kick-off e alla work session del
+progetto, poiché il team era già stato coinvolto fin dall'inizio nella fase di raccolta
+dei requisiti e nella definizione del progetto. Durante questa sessione si è tenuto un
+incontro con il team per discutere le attività da svolgere, avviando così lo sviluppo
+della [**WBS**](planning/WBS.md) (Work Breakdown Structure).
 
-Sono stati identificati una granularità di task adeguata da permettere successivamente
-di stimare i tempi di realizzazione e le risorse necessarie per ciascuna attività.
+Per la realizzazione della WBS è stato adottato un approccio top-down, partendo dagli
+obiettivi generali del progetto e suddividendoli in attività via via più specifiche e
+dettagliate, con un livello di granularità sufficiente a permettere la stima dei tempi
+di realizzazione e delle risorse necessarie per ciascuna attività. Inoltre, sono stati
+esclusi i requisiti non funzionali, in quanto considerati integrati in ogni task di
+sviluppo e non bisognosi di una gestione separata.
 
 ## 2 Session / Planning
 
+logica di stima del tempo
+prima project network diagram per poi fare il Gantt
+stima del tempo
+Stima risorse
+
+- [Project network diagram](planning/Project-Network-Diagram.md): Diagramma di rete del progetto
 - [Gannt](planning/Gantt.md): Diagramma di Gantt
+- [RBS](planning/RBS.md): Resource Breakdown Structure
 
 ## 3 Session / Risk Management
 
