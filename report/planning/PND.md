@@ -1,5 +1,8 @@
 # Project network diagram
 
+Data la complessità del progetto e la sua natura iterativa, è stato scelto di utilizzare un
+Project Network Diagram (PND) per rappresentare solo le attività critiche del progetto e le 
+loro dipendenze.
 Sono stati definiti le varie milestone del progetto, che rappresentano i punti di controllo
 e le fasi chiave del progetto. Le milestone sono state identificate in base agli obiettivi 
 principali del progetto e alle attività critiche che devono essere completate per 
@@ -12,6 +15,19 @@ raggiungere tali obiettivi. Le milestone principali includono:
 
 Inoltre le milestone serviranno per tenere traccia dello stato di avanzamento del 
 progetto e per realizzare più facilmente il Gantt Chart.
+
+
+| Fase                  | Inizio      | Fine        | Durata (giorni) | Durata (mesi) |
+|-----------------------|-------------|-------------|-----------------|---------------|
+| **1. Prototipazione** | 1 Gen 2025  | 3 Ott 2025  | 275             | 9.2           |
+| **2. Narrativa**      | 3 Ott 2025  | 16 Mag 2026 | 225             | 7.5           |
+| **3. Roguelite**      | 16 Mag 2026 | 11 Gen 2027 | 240             | 8.0           |
+| **4. Action**         | 11 Gen 2027 | 26 Mag 2027 | 135             | 4.5           |
+| **5. RPG**            | 26 Mag 2027 | 23 Ott 2027 | 150             | 5.0           |
+| **6. UI**             | 23 Ott 2027 | 21 Gen 2028 | 90              | 3.0           |
+| **7. Marketing**      | 21 Gen 2028 | 20 Apr 2028 | 90              | 3.0           |
+| **8. Finalizzazione** | 20 Apr 2028 | 17 Set 2028 | 150             | 5.0           |
+
 
 ```mermaid
 graph LR
