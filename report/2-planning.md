@@ -31,7 +31,15 @@ definire le caratteristiche principali del progetto e le sue finalità.
 | **Sabatino Panella** | 2D, Character e Environment Artist          | Core Team                     |
 | **Dominic Sambucco** | Sound Designer e Musicista                  | Core Team                     |
 
-## 1 Session (Kick-off + Work session)
+### Allegati 
+- [WBS](planning/WBS.md): Work Breakdown Structure
+- [PND](planning/PND.md): Project Network Diagram
+- [Gantt](planning/Gantt.md): Gantt Chart
+- [RBS](planning/RBS.md): Resource Breakdown Structure
+- [Risk Management Plan](planning/Risk-Management-Plan.md): Piano di gestione dei rischi
+
+
+## 1. Session (Kick-off + Work session)
 
 La prima sessione è stata dedicata direttamente al kick-off e alla work session del
 progetto, poiché il team era già stato coinvolto fin dall'inizio nella fase di raccolta
@@ -46,17 +54,24 @@ di realizzazione e delle risorse necessarie per ciascuna attività. Inoltre, son
 esclusi i requisiti non funzionali, in quanto considerati integrati in ogni task di
 sviluppo e non bisognosi di una gestione separata.
 
-## 2 Session / Planning
+## 2. Session (Work session)
 
-logica di stima del tempo
-prima project network diagram per poi fare il Gantt
-stima del tempo
-Stima risorse
+Nella seconda sessione, il team si è concentrato sulla stima dei tempi e delle risorse 
+necessarie per ciascuna attività della WBS. Sono stati utilizzati metodi di stima 
+consensus-based per ottenere una valutazione condivisa e realistica dei tempi di 
+realizzazione. Il team ha discusso le dipendenze tra le attività e ha creato un
+[**Project Network Diagram**](planning/PND.md) per visualizzare le 
+relazioni tra le attività e le loro dipendenze. Successivamente, è stato creato un
+[**Gantt Chart**](planning/Gantt.md) per rappresentare graficamente la pianificazione
+delle attività nel tempo, facilitando la comprensione delle tempistiche e delle scadenze.
+In fine è stata creata la [**RBS**](planning/RBS.md) (Resource Breakdown Structure) per 
+definire le risorse necessarie per ciascuna macro attività, in modo da avere una 
+visione chiara delle risorse richieste e dei costi associati.
 
-- [Project network diagram](planning/Project-Network-Diagram.md): Diagramma di rete del progetto
-- [Gannt](planning/Gantt.md): Diagramma di Gantt
+- [PND](planning/PND.md): Project network diagram
+- [Gantt](planning/Gantt.md): Diagramma di Gantt
 - [RBS](planning/RBS.md): Resource Breakdown Structure
 
-## 3 Session / Risk Management
+## 3. Session (Work session)
 
 - [Risk Management Plan](planning/Risk-Management-Plan.md): Piano di gestione dei rischi
