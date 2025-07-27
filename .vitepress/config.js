@@ -53,7 +53,10 @@ export default withMermaid(
                             collapsed: true,
                             items: [
                                 {text: 'WBS', link: `${planningPath}/WBS`},
+                                {text: 'PND', link: `${planningPath}/PND`},
                                 {text: 'Gantt', link: `${planningPath}/Gantt`},
+                                {text: 'RBS', link: `${planningPath}/RBS`},
+                                {text: 'Risk Management', link: `${planningPath}/Risk-Management-Plan`},
                             ]
                         }
                     ]

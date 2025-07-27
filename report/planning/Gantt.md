@@ -1,66 +1,64 @@
+# Gantt
+
+Di seguito è riportato il diagramma di Gantt per il progetto, che mostra le attività principali,
+le loro dipendenze e le tempistiche previste per ciascuna fase dello sviluppo del videogioco. 
+Le attività sono suddivise in sezioni tematiche e sono indicate le milestone principali.
+
 ```mermaid
 gantt
-    title Gantt - Game Dev Project (WBS)
+    title Piano di sviluppo videogioco
     dateFormat  YYYY-MM-DD
-    axisFormat  %b %Y
-    excludes    weekends
+    section Prototipazione
+        1.1.1 Base Meccaniche Roguelite     :prot1, 2025-01-01, 60d
+        1.1.2 Base Meccaniche Action        :prot2, after prot1, 60d
+        1.1.3 Base Meccaniche RPG           :prot3, after prot1, 60d
+        1.1.4 Mockup UI                     :prot4, after prot1, 45d
+        1.1.5 Documentazione Progetto       :prot5, after prot4, 30d
+        1.1.6 Preparazione per Bandi        :prot6, after prot5, 20d
+        Milestone MS1: Prototipo pronto per bandi :milestone1, after prot6, 0d
 
-%% Fase 1 - Prototipo per fondi perduti
-    section 1. Fondi perduti
-        1.1 Bandi italiani              :done, t1_1, 2025-01-01, 10d
-        1.2 Bandi europei               :done, t1_2, after t1_1, 10d
-        1.3 Prototipo base              :t1_3, after t1_2, 60d
-        MS1 Prototipo pronto            :milestone, ms1, after t1_3, 0d
+    section Narrativa
+        2.1 Trama                           :narr1, 2025-10-03, 45d
+        2.2 Ambientazione                   :narr2, after narr1, 45d
+        2.3 Personaggi                      :narr3, after narr2, 45d
+        2.4 Missioni                        :narr4, after narr3, 30d
+        2.5 Dialoghi                        :narr5, after narr4, 30d
+        2.6 Localizzazione                  :narr6, after narr5, 30d
+        Milestone MS3: Narrativa completa  :milestone3, after narr6, 0d
 
-    %% Fase 2 - Narrativa
-    section 3. Narrativa
-        3.1 Ricerca partner narrativa   :t3_1, after ms1, 30d
-        3.2 Trama e ambientazione       :t3_2, after t3_1, 60d
-        3.3 Personaggi principali       :t3_3, after t3_2, 60d
-        3.4 Missioni                    :t3_4, after t3_3, 45d
-        3.5 Localizzazione base         :t3_5, after t3_4, 45d
+    section Meccaniche Roguelite
+        3.1 Mappe Procedurali              :rog1, 2026-05-16, 60d
+        3.2 Hub e Sbloccaggi               :rog2, after rog1, 60d
+        3.3 Salvataggi                     :rog3, after rog2, 30d
+        3.4 Permadeath                     :rog4, after rog3, 30d
+        3.5 Progressione e Miglioramenti   :rog5, after rog4, 30d
+        3.6 Sistemi di simulazione         :rog6, after rog5, 30d
 
-    %% Fase 3 - Marketing
-    section 2. Marketing
-        2.1 Ricerca PR                  :t2_1, 2025-06-01, 30d
-        2.2 Sito web                    :t2_2, after t2_1, 30d
-        2.3 Social media setup          :t2_3, after t2_2, 30d
-        2.4 Steam distribuzione         :t2_4, after t2_3, 30d
+    section Meccaniche Action
+        4.1 Combattimento completo         :act1, 2027-01-11, 60d
+        4.2 Nemici                         :act2, after act1, 45d
+        4.3 Boss e Pattern                 :act3, after act2, 30d
 
-    %% Fase 4 - Gameplay Systems
-    section 4. Roguelite Systems
-        4.1 Hub + zone                  :t4_1, after ms1, 60d
-        4.2 Mappe e nemici              :t4_2, after t4_1, 60d
-        4.3 Progressione persistente    :t4_3, after t4_2, 45d
-        4.4 Permadeath & miglioramenti  :t4_4, after t4_3, 45d
-        4.5 Simulazioni                 :t4_5, after t4_4, 45d
+    section Meccaniche RPG
+        5.1 Progressione Personaggio       :rpg1, 2027-05-26, 45d
+        5.2 Equipaggiamento                :rpg2, after rpg1, 45d
+        5.3 Dialoghi a Scelta              :rpg3, after rpg2, 30d
+        5.4 Albero Abilità                 :rpg4, after rpg3, 30d
 
-    %% Fase 5 - Meccaniche Action
-    section 5. Action Combat
-        5.1 Combattimento base          :t5_1, after ms1, 60d
-        5.2 Nemici & Boss               :t5_2, after t5_1, 60d
-        5.3 Pattern nemici              :t5_3, after t5_2, 30d
+    section UI
+        6.1 HUD                            :ui1, 2027-10-23, 30d
+        6.2 Menu                           :ui2, after ui1, 30d
+        6.3 UX                             :ui3, after ui2, 30d
 
-    %% Fase 6 - Meccaniche RPG
-    section 6. RPG Systems
-        6.1 Progressione                :t6_1, after ms1, 60d
-        6.2 Equipaggiamento             :t6_2, after t6_1, 60d
-        6.3 Scelte e dialoghi           :t6_3, after t6_2, 30d
-        6.4 Albero abilità              :t6_4, after t6_3, 45d
+    section Marketing
+        7.1 Ricerca PR                     :mkt1, 2028-01-21, 30d
+        7.2 Sito Web                       :mkt2, after mkt1, 30d
+        7.3 Social Media                   :mkt3, after mkt2, 30d
 
-    %% Fase 7 - UI/UX
-    section 7. Interfaccia Utente
-        7.1 HUD                         :t7_1, after t6_4, 30d
-        7.2 Menu di gioco               :t7_2, after t7_1, 30d
-        7.3 UX e feedback               :t7_3, after t7_2, 30d
-        MS2 Feature complete            :milestone, ms2, after t7_3, 0d
-
-    %% Fase 8 - Bilanciamento e QA
-    section 8. Bilanciamento e Test
-        8.1 Bilanciamento meccaniche    :t8_1, after ms2, 60d
-        8.2 QA interno                  :t8_2, after t8_1, 30d
-        8.3 Localizzazione finale       :t8_3, after t8_2, 30d
-        MS3 Pronto al lancio            :milestone, ms3, after t8_3, 0d
-
-
+    section Finalizzazione
+        8.1 Bilanciamento                  :fin1, 2028-04-20, 60d
+        8.2 Localizzazione finale          :fin2, after fin1, 45d
+        8.3 Distribuzione Steam            :fin3, after fin2, 30d
+        8.4 QA e Playtest                  :fin4, after fin3, 15d
+        Milestone MS5: Pronto per lancio  :milestone5, after fin4, 0d
 ```
