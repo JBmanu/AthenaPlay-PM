@@ -1,5 +1,18 @@
 # Project network diagram
 
+Sono stati definiti le varie milestone del progetto, che rappresentano i punti di controllo
+e le fasi chiave del progetto. Le milestone sono state identificate in base agli obiettivi 
+principali del progetto e alle attività critiche che devono essere completate per 
+raggiungere tali obiettivi. Le milestone principali includono:
+- **MS1**: Prototipo pronto per bandi
+- **MS2**: Feature complete
+- **MS3**: Narrativa completa
+- **MS4**: Pronto per playtest
+- **MS5**: Pronto per lancio
+
+Inoltre le milestone serviranno per tenere traccia dello stato di avanzamento del 
+progetto e per realizzare più facilmente il Gantt Chart.
+
 ```mermaid
 graph LR
 
@@ -67,7 +80,4 @@ graph LR
     MS1 --> DEV
     MS3 --> MS2
     MS2 --> FINAL
-
-
-
 ```
