@@ -6,7 +6,7 @@ le risorse necessarie, i tempi di realizzazione e i costi previsti. Data la
 complessità del progetto, si è deciso di suddividerlo in più fasi, ognuna delle
 quali sarà accompagnata da un documento di pianificazione specifico.
 
-## Joint Project Planning Session
+## Joint Project Planning Session (JPPS)
 
 Durante la Joint Project Planning Session, il team ha discusso e definito le
 attività necessarie per la realizzazione del progetto, stabilendo le priorità e
@@ -22,14 +22,14 @@ definire le caratteristiche principali del progetto e le sue finalità.
 
 ### Participants
 
-| Nome                 | Competenze                                  | Ruolo                         |
-|----------------------|---------------------------------------------|-------------------------------|
-| **Manuel Buizo**     | CEO, Project Manager, Software architecture | Project Manager e Facilitator |
-| **Luana Mennuti**    | Game Designer, 3D artist, UI/UX Design      | Core Team                     |
-| **Alessandro Ricci** | CTO, Technical Artist                       | Core Team                     |
-| **Matteo Manicone**  | CFO, Marketing Manager                      | Core Team                     |
-| **Sabatino Panella** | 2D, Character e Environment Artist          | Core Team                     |
-| **Dominic Sambucco** | Sound Designer e Musicista                  | Core Team                     |
+| Nome                 | Ruolo                                   |
+|----------------------|-----------------------------------------|
+| **Manuel Buizo**     | Project Manager e Core Team             |
+| **Luana Mennuti**    | Product Owner, Scrum Master e Core Team |
+| **Alessandro Ricci** | Core Team                               |
+| **Matteo Manicone**  | Core Team                               |
+| **Sabatino Panella** | Core Team                               |
+| **Dominic Sambucco** | Core Team                               |
 
 ### Allegati
 
