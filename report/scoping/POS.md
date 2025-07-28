@@ -36,6 +36,7 @@ grazie alla grafica pixel art moderna.
 - Prezzo di vendita: > € 19,99
 - Numero di vendite: > 200.000 copie (nell'arco di 1 anno)
 - ROI di guadagno: > 217,92% (nell'arco di 1 anno)
+- Copertura dei test: >= 75%
 
 ## Assumptions
 
