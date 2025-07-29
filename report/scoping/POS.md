@@ -10,7 +10,7 @@ le possibilità aziendali e la visibilità nel medio-lungo periodo.
 
 ## Goal
 
-Sviluppare un gioco Indie/AA originale, giocabile esclisivamente offline,
+Sviluppare un gioco Indie/AA originale, giocabile esclusivamente offline,
 incentrato su un titolo Rogue-lite con elementi RPG e Action, capace di offrire
 un’esperienza coinvolgente e di attrarre un pubblico ampio e diversificato,
 grazie alla grafica pixel art moderna.
@@ -32,11 +32,12 @@ grazie alla grafica pixel art moderna.
 
 ## Success Criteria
 
-- Costo di sviluppo: <= € 807.225
-- Prezzo di vendita: > € 19,99
-- Numero di vendite: > 200.000 copie (nell'arco di 1 anno)
-- ROI di guadagno: > 217,92% (nell'arco di 1 anno)
-- Copertura dei test: >= 75%
+- Costo di sviluppo: ≤ € 807.225
+- Prezzo di vendita: ≥ € 19,99
+- Durata del gameplay: ≥ 15 ore
+- Copertura dei test: ≥ 75%
+- Numero di vendite: ≥ 200.000 copie (nell'arco di 1 anno)
+- ROI di guadagno: ≥ 217,92% (nell'arco di 1 anno)
 
 ## Assumptions
 
@@ -55,7 +56,7 @@ Sono identificati i possibili rischi, che potrebbero influenzare il progetto:
 - Rallentamento dello sviluppo a causa delle nuove e innovative technologie.
 - Coordinazione e comunicazione tra i membri del team, per integrare tutti
   gli aspetti del gioco (sviluppo, grafica e suono).
-- Test interni insufficienti (gameplay, UX, compatibilità).
+- Test interni insufficienti (gameplay, UX, compatibilità e meccaniche).
 - Mancanza di coerenza visiva o audio tra elementi del gioco.
 - Gestione inadeguata con le aziende partner e i fornitori esterni.
 

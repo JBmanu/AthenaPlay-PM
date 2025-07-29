@@ -89,7 +89,7 @@ Di seguito sono riportati i costi di sviluppo per i generi di gioco più rappres
 ## Analisi dettagliata dei giochi: Indie
 
 A seguito dell’analisi dei costi di sviluppo, è stata scelta una strategia focalizzata su
-titoli indie e AA, in quanto offrono un buon equilibrio tra qualità e sostenibilità
+titoli **indie** e **AA**, in quanto offrono un buon equilibrio tra qualità e sostenibilità
 economica. Sono riportati alcuni esempi rappresentativi, con dati relativi a costi,
 ricavi stimati, ROI, vendite e prezzo medio.
 
@@ -122,7 +122,7 @@ di distribuzione, al fine di individuare le agenzie più adatte alle dimensioni 
 agli obiettivi del progetto.
 In particolare, è emerso che l'agenzia **Future Friends Games** si distingue per la
 sua specializzazione nel settore indie e per la solida presenza su piattaforme
-strategiche come Steam e YouTube, rendendola una scelta particolarmente indicata
+strategiche come **Steam** e YouTube, rendendola una scelta particolarmente indicata
 per il lancio di titoli indipendenti.
 
 | Agenzia PR               | Durata Tipica | Stima Costo Unico (€) | Descrizione                                                                                 |
@@ -139,14 +139,6 @@ per il lancio di titoli indipendenti.
 titoli Indie e AA, al fine di confrontare efficacemente le opzioni di sviluppo
 e stimare con maggiore precisione le risorse necessarie.
 
-| **Tipologia Grafica**                               | **Dimensione** | **Esempi Noti**                                            | **Perché Funziona**                                          | **Vantaggi**                                             | **Svantaggi**                                             | **Costi (stimati)**         | **Target Giocatori**                                            | **Apprezzamento del Pubblico**           | **Periodo di Popolarità**         |
-|-----------------------------------------------------|----------------|------------------------------------------------------------|--------------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------|-----------------------------|-----------------------------------------------------------------|------------------------------------------|-----------------------------------|
-| **Pixel Art Moderna**                               | 2D             | *Dead Cells*, *Enter the Gungeon*, *Noita*, *Rogue Legacy* | Nostalgica ma moderna, chiara visivamente, animazioni fluide | Basso costo, leggerezza tecnica, accessibilità artistica | Rischia di sembrare “già visto”, limitazioni nei dettagli | 💲💲 (medio-basso)          | Appassionati indie, retro gamer, casual & hardcore              | ❤️ Molto alto – stile amato e familiare  | 2010–oggi (costante)              |
-| **2D Disegnato a mano / Stilizzato**                | 2D             | *Hades*, *Salt and Sanctuary*, *Darkest Dungeon*           | Forte identità visiva, stile artistico unico                 | Alto impatto artistico, atmosfere evocative              | Richiede team artistico più esperto, tempi più lunghi     | 💲💲💲 (medio-alto)         | Estimatori del design artistico, giocatori di fascia media-alta | ❤️❤️ Altissimo, se ben eseguito          | 2015–oggi (in crescita)           |
-| **2.5D (sprite o asset 2D su ambienti 3D)**         | 2.5D           | *Hades II*, *Blasphemous*, *The Last Faith*                | Combina profondità visiva con gameplay 2D                    | Profondità senza perdere controllo 2D, effetto moderno   | Più complesso tecnicamente, richiede pipeline mista       | 💲💲💲 (medio-alto)         | Hardcore, action gamer, console player                          | ❤️❤️ Buono-ottimo (se ben ottimizzato)   | 2018–oggi (in ascesa)             |
-| **Low-poly stilizzato 3D**                          | 3D             | *Risk of Rain 2*, *Skul*, *Necesse*, *Gunfire Reborn*      | Estetica accessibile ma moderna, facile da animare           | Buona resa 3D senza pesare sul sistema, effetto moderno  | Richiede gestione 3D, più programmazione/rigging          | 💲💲💲💲 (medio-alto)       | Steam gamer, appassionati tech, coop online                     | ❤️ Buono, se leggibile e fluido          | 2019–oggi (in espansione)         |
-| **3D realistico o semi-realistico (High Fidelity)** | 3D             | *Returnal* (non indie), *Mortal Shell* (AA)                | Estetica immersiva, adatta a mood cupi o dark fantasy        | Grande impatto visivo, storytelling visivo forte         | Costosissimo, animazioni e asset pesanti                  | 💲💲💲💲💲 (alto-altissimo) | Hardcore, utenti console, appassionati souls-like               | 💔 Rischioso per indie: aspettative alte | 2010–oggi, ma difficile per indie |
-
 È emerso che la scelta grafica più adatta al tipo di gioco è la **Pixel Art Modern**a,
 in quanto offre un buon equilibrio tra costi di sviluppo, accessibilità tecnica e
 gradimento da parte del pubblico.
@@ -158,11 +150,20 @@ Questa scelta risulta coerente con le attuali tendenze del mercato indie, dove
 la Pixel Art continua a essere altamente riconoscibile e apprezzata, in
 particolare da giocatori giovani e nostalgici.
 
+| **Tipologia Grafica**                               | **Dimensione** | **Esempi Noti**                                            | **Perché Funziona**                                          | **Vantaggi**                                             | **Svantaggi**                                             | **Costi (stimati)**         | **Target Giocatori**                                            | **Apprezzamento del Pubblico**           | **Periodo di Popolarità**         |
+|-----------------------------------------------------|----------------|------------------------------------------------------------|--------------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------|-----------------------------|-----------------------------------------------------------------|------------------------------------------|-----------------------------------|
+| **Pixel Art Moderna**                               | 2D             | *Dead Cells*, *Enter the Gungeon*, *Noita*, *Rogue Legacy* | Nostalgica ma moderna, chiara visivamente, animazioni fluide | Basso costo, leggerezza tecnica, accessibilità artistica | Rischia di sembrare “già visto”, limitazioni nei dettagli | 💲💲 (medio-basso)          | Appassionati indie, retro gamer, casual & hardcore              | ❤️ Molto alto – stile amato e familiare  | 2010–oggi (costante)              |
+| **2D Disegnato a mano / Stilizzato**                | 2D             | *Hades*, *Salt and Sanctuary*, *Darkest Dungeon*           | Forte identità visiva, stile artistico unico                 | Alto impatto artistico, atmosfere evocative              | Richiede team artistico più esperto, tempi più lunghi     | 💲💲💲 (medio-alto)         | Estimatori del design artistico, giocatori di fascia media-alta | ❤️❤️ Altissimo, se ben eseguito          | 2015–oggi (in crescita)           |
+| **2.5D (sprite o asset 2D su ambienti 3D)**         | 2.5D           | *Hades II*, *Blasphemous*, *The Last Faith*                | Combina profondità visiva con gameplay 2D                    | Profondità senza perdere controllo 2D, effetto moderno   | Più complesso tecnicamente, richiede pipeline mista       | 💲💲💲 (medio-alto)         | Hardcore, action gamer, console player                          | ❤️❤️ Buono-ottimo (se ben ottimizzato)   | 2018–oggi (in ascesa)             |
+| **Low-poly stilizzato 3D**                          | 3D             | *Risk of Rain 2*, *Skul*, *Necesse*, *Gunfire Reborn*      | Estetica accessibile ma moderna, facile da animare           | Buona resa 3D senza pesare sul sistema, effetto moderno  | Richiede gestione 3D, più programmazione/rigging          | 💲💲💲💲 (medio-alto)       | Steam gamer, appassionati tech, coop online                     | ❤️ Buono, se leggibile e fluido          | 2019–oggi (in espansione)         |
+| **3D realistico o semi-realistico (High Fidelity)** | 3D             | *Returnal* (non indie), *Mortal Shell* (AA)                | Estetica immersiva, adatta a mood cupi o dark fantasy        | Grande impatto visivo, storytelling visivo forte         | Costosissimo, animazioni e asset pesanti                  | 💲💲💲💲💲 (alto-altissimo) | Hardcore, utenti console, appassionati souls-like               | 💔 Rischioso per indie: aspettative alte | 2010–oggi, ma difficile per indie |
+
 ## Analisi della narrativa
 
 Da un’analisi approfondita degli elementi narrativi nei giochi Indie e AA,
 è emerso che una narrativa efficace si basa su pochi elementi chiave,
-progettati per integrarsi armoniosamente con le dinamiche del gameplay roguelite.
+progettati per integrarsi armoniosamente con le dinamiche del gameplay 
+Roguelike/Roguelite.
 
 Un mistero centrale guida la scoperta e incentiva la rigiocabilità, mentre
 il ciclo di morte e rinascita viene giustificato all’interno della trama, rendendo

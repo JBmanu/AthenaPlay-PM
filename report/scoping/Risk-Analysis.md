@@ -1,5 +1,3 @@
-si potrebbero verificare eventi negativi che potrebbero compromettere l'obiettivo
-
 # Risk Analysis
 
 A seguito dell’analisi dei rischi, sono stati individuati i rischi potenziali che

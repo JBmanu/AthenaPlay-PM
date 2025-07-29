@@ -38,7 +38,7 @@ settore e delle opportunità disponibili.
 
 [Market Analysis](Market-Analysis.md)
 
-A seguito dell'analisi, sono stati identificati i seguenti punti chiave:
+A seguito dell'analisi, sono stati identificati i seguenti punti chiave (opportunità):
 
 - **Costo di sviluppo**: 50K - 5M
 - **Prezzo di vendita**: 15 - 25
@@ -56,16 +56,15 @@ A seguito dell'analisi, sono stati identificati i seguenti punti chiave:
 ## POS
 
 Sono riportati i punti chiave del POS, che forniscono una panoramica
-del progetto e delle sue caratteristiche principali:[POS](POS.md).
+del progetto e delle sue caratteristiche principali: <br>
 
-Di seguito gli allegati utili a valutare e validare le decisioni prese:
-
-- [Risk Analysis](Risk-Analysis.md)
-- [Feasibility studies](Feasibility-Studies.md)
+- [POS](POS.md).
+    - [Risk Analysis](Risk-Analysis.md)
+    - [Feasibility studies](Feasibility-Studies.md)
 
 ## Business Model
 
 In fine si riporta il Business Model Canvas del gioco, che illustra le
 componenti principali del modello di business:
 
-![Business Model Canvas](../../public/resources/business-model-canvas.jpg)
+<iframe src="https://miro.com/app/board/uXjVJbBfsRQ=/" width="100%" height="600px" frameborder="0"></iframe>

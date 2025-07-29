@@ -129,10 +129,11 @@ bar [87956, 879560, 4397800, 807225, 1759120, 2638680]
 
 ## Return on investment
 
-Per il calcolo del ritorno sull'investimento ottimo, si è considerato un period o di 1 anni
-dopo il lancio, con un picco di vendite nei primi 6 mesi e un calo graduale.
+Per il calcolo del ritorno sull'investimento ottimo, si è considerato un periodo di 1
+anno dopo il lancio, con un picco di vendite nei primi 6 mesi e un calo graduale.
 
-Si sono prese in considerazione per avere un vantaggio e una prospettiva di crescita:
+Sono stati presi in considerazione diversi fattori per ottenere un vantaggio
+competitivo e una prospettiva di crescita:
 
 - Tasse per il mantenimento dell'azienda
 - Investimento per un prossimo progetto
@@ -151,7 +152,7 @@ Sono stati identificati diversi potenziali investitori, sia in ambito
 italiano che europeo, interessati a sostenere la nascita di nuove realtà
 videoludiche attraverso finanziamenti a fondo perduto.
 Sono inoltre stati analizzati alcuni publisher in linea con le caratteristiche
-del progetto — un rogue-lite con grafica in pixel art moderna — che potrebbero
+del progetto **RogueLite con grafica in pixel art moderna** che potrebbero
 essere interessati non solo alla pubblicazione del gioco, ma anche a supportarlo
 con risorse economiche, visibilità e attività di marketing.
 
