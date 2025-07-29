@@ -112,7 +112,7 @@ Il processo prevede i seguenti passaggi:
 
 Qualora il conflitto non possa essere risolto internamente, la risoluzione sarà
 affidata al Project Manager, che agirà come mediatore per facilitare il dialogo
-e trovare una soluzione condivisa.
+e trovare una soluzione.
 
 ### BrainStorming
 

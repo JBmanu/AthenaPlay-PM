@@ -27,7 +27,7 @@ Di seguito sono riportate la gestione e le azioni previste per ciascun rischio i
 
 - **Azione**: Avoid
 
-E' uno dei rischi principali, poiché la qualità del gioco è fondamentale per il successo del progetto.
+È uno dei rischi principali, poiché la qualità del gioco è fondamentale per il successo del progetto.
 Totalmente evitabile, in quanto il team ha esperienza nello sviluppo di giochi e utilizzerà
 metodologie di sviluppo adattive (agile), con frequenti playtest e feedback da parte degli utenti.
 

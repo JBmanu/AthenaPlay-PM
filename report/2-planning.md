@@ -3,8 +3,8 @@
 Conclusa la fase di raccolta dei requisiti, si passa al processo di pianificazione
 del progetto, in cui vengono definite più nel dettaglio le attività da svolgere,
 le risorse necessarie, i tempi di realizzazione e i costi previsti. Data la
-complessità del progetto, si è deciso di suddividerlo in più fasi, ognuna delle
-quali sarà accompagnata da un documento di pianificazione specifico.
+complessità del progetto, si è deciso di suddividere il processo in più fasi,
+ognuna delle quali sarà accompagnata da un documento di pianificazione specifico.
 
 ## Joint Project Planning Session (JPPS)
 
@@ -51,10 +51,10 @@ Per la realizzazione della WBS è stato adottato un approccio top-down, partendo
 obiettivi generali del progetto e suddividendoli in attività via via più specifiche e
 dettagliate, con un livello di granularità sufficiente a permettere la stima dei tempi
 di realizzazione e delle risorse necessarie per ciascuna attività. Inoltre, sono stati
-esclusi i requisiti non funzionali, in quanto considerati integrati in ogni task di
+esclusi alcuni requisiti non funzionali, in quanto considerati integrati in ogni task di
 sviluppo e non bisognosi di una gestione separata.
 
-- [**WBS**](planning/WBS.md)
+- [WBS](planning/WBS.md)
 
 ## 2. Session (Work session)
 
@@ -63,12 +63,12 @@ necessarie per ciascuna attività della WBS. Sono stati utilizzati metodi di sti
 **Delphi technique** (consensus-based) per ottenere una valutazione condivisa e
 realistica dei tempi di realizzazione. Il team ha discusso le dipendenze tra le
 attività e ha creato un **Project Network Diagram** per visualizzare le
-relazioni tra le attività e le loro dipendenze. Successivamente, è stato creato un
+relazioni tra esse. Successivamente, è stato creato un
 **Gantt Chart** per rappresentare graficamente la pianificazione
 delle attività nel tempo, facilitando la comprensione delle tempistiche e delle scadenze.
 In fine è stata creata la **RBS** (Resource Breakdown Structure) per
 definire le risorse necessarie per ciascuna macro attività, in modo da avere una
-visione chiara delle risorse richieste e dei costi associati.
+visione chiara delle figure richieste e della loro gestione.
 
 - [PND](planning/PND.md): Project network diagram
 - [Gantt](planning/Gantt.md): Diagramma di Gantt
