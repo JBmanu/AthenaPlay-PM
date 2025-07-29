@@ -18,5 +18,5 @@ hero:
 AthenaStudios S.R.L. è una neo-azienda nel settore dei videogiochi, fondata 
 da un team di professionisti con esperienza nel settore videoludico e 
 competenze specifiche in game design, programmazione, grafica e marketing. 
-Il progetto si propone di sviluppare un videogioco innovativo e coinvolgente, 
+Il progetto si propone di sviluppare un videogioco originale e coinvolgente, 
 con l'obiettivo di posizionarsi nel mercato videoludico e attrarre investitori.

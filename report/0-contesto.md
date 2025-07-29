@@ -1,6 +1,6 @@
 # Contesto
 
-AthenaStudios S.R.L.S. è una neo-azienda emergente con l’obiettivo di entrare nel
+AthenaStudios S.R.L. è una è una giovane azienda con l’obiettivo di entrare nel
 mercato videoludico sviluppando un titolo distintivo, capace di fungere da
 primo riferimento e posizionare l’azienda nel settore.
 Per raggiungere questo obiettivo, l’azienda ha bisogno di condurre un’analisi
@@ -13,8 +13,8 @@ a disposizione competenze professionali nel settore videoludico, esperienza
 pregressa nello sviluppo di giochi tramite Unity e un capitale iniziale pari
 a 1 milione di euro, con l'obiettivo di costituire un team coeso e qualificato,
 avviare lo sviluppo del titolo, attrarre investitori e curare le attività di promozione.
-Il piano prevede investimenti specifici in marketing, comunicazione e
-successivamente alla costruzione di una community attiva e fidelizzata,
+Il piano prevede investimenti specifici in marketing e comunicazione, con un
+focus successivo sulla costruzione di una community attiva e fidelizzata,
 capace di generare engagement e amplificare la visibilità del prodotto.
 
 L’approccio tecnologico punterà su soluzioni moderne e affidabili per garantire
@@ -30,7 +30,7 @@ un percorso di crescita sostenibile nel settore.
 
 ## Soci/Team Fondatori e collaboratori
 
-I soci fondatori di AthenaStudios S.R.L.S. sono:
+I soci fondatori di AthenaStudios S.R.L. sono:
 
 | Nome                 | Ruolo                                                       |
 |----------------------|-------------------------------------------------------------|
@@ -51,12 +51,8 @@ Collaborano inoltre:
 
 ## Process Scoping Meeting
 
-Si terranno tre process scoping meeting per definire la pianificazione del progetto,
-analizzando risorse possibili e necessarie, possibili investitori e opportunità di mercato,
-con particolare attenzione ai diversi desideri/bisogni e ai potenziali rischi.
+Si terranno tre incontri di process scoping per definire l’ambito del progetto,
+analizzando i requisiti necessari, i potenziali investitori e le opportunità
+di mercato, con particolare attenzione ai diversi bisogni e desideri, nonché
+ai rischi potenziali.
 
-### Analisi:
-
-1. risorse possibili/necessarie e possbili investitori
-2. opportunità di mercato
-3. competenze del team

@@ -11,21 +11,21 @@ definizione del progetto.
 
 ## Meeting
 
-1. [meeting](scoping/1-meeting.md)
-2. [meeting](scoping/2-meeting.md)
-3. [meeting](scoping/3-meeting.md)
+1. [Meeting](scoping/1-meeting.md)
+2. [Meeting](scoping/2-meeting.md)
+3. [Meeting](scoping/3-meeting.md)
 
 ### Fasi del meeting:
 
-- scopo del meeting
-- partecipanti
-- produzione degli allegati chiave
+- Scopo del meeting
+- Partecipanti
+- Produzione degli allegati chiave
 
 ### Documenti di suporto:
 
 - [Desideri e Bisogni](scoping/1-meeting.md)
 - [Stato del progetto](scoping/1-meeting.md) (AS-IS, TO-BE, NICE-TO-HAVE)
-- [sfide e opportunità](scoping/1-meeting.md)
+- [Sfide e opportunità](scoping/1-meeting.md)
 
 ### Allegati chiave:
 

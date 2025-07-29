@@ -1,23 +1,23 @@
 # 1-Meeting
 
-Ha avuto inizio il primo meeting di scoping relativo al progetto aziendale di AthenaStudios
-S.R.L.S.
+Ha avuto inizio il primo meeting di scoping relativo al progetto aziendale di
+AthenaStudios S.R.L.
 Duarnte l'incontro, ciascun partecipante si è presentato, illustrando le proprie
 competenze e il ruolo ricoperto all’interno dell’organizzazione.
 Considerata la fase ancora embrionale dell’azienda, a guidare il meeting è stato
-Manuel Buizo, in qualità di CEO e Project Manager, il quale ha coordinato le attività al
-fine di garantire il rispetto degli obiettivi prefissati.
+Manuel Buizo, in qualità di CEO e Project Manager, il quale ha coordinato le
+attività al fine di garantire il rispetto degli obiettivi prefissati.
 
 ## Scopo del meeting
 
-L’obiettivo del meeting è stato definire in modo chiaro e condiviso i desideri, i bisogni,
-lo stato attuale del progetto, le sfide, le opportunità e le condizioni di soddisfazione
-(CoS) che ne guideranno lo sviluppo. L’intento era garantire una visione comune tra i
-membri del team su ciò che si desidera ottenere, facilitando la pianificazione delle
-attività future.
+L’obiettivo del meeting è stato definire in modo chiaro e condiviso i desideri,
+i bisogni, lo stato attuale del progetto, le sfide, le opportunità e le condizioni
+di soddisfazione(CoS) che ne guideranno lo sviluppo. L’intento era garantire una
+visione comune tra i membri del team su ciò che si desidera ottenere, facilitando
+la pianificazione delle attività future.
 
-Per migliorare la leggibilità e la comprensione del documento, si è deciso di strutturare
-le informazioni in 4 categorie principali:
+Per migliorare la leggibilità e la comprensione del documento, si è deciso di
+strutturare le informazioni in 4 categorie principali:
 
 - Sviluppo
 - Economia
@@ -26,8 +26,8 @@ le informazioni in 4 categorie principali:
 
 ## Partecipanti
 
-I partecipanti sono stati selezionati tra i soci, in base alle loro competenze e ruoli,
-per garantire una discussione efficace e produttiva.
+I partecipanti sono stati selezionati tra i soci, in base alle loro competenze
+e ruoli, per garantire una discussione efficace e produttiva.
 
 | Nome                 | Competenze                                  | Ruolo                         |
 |----------------------|---------------------------------------------|-------------------------------|
@@ -73,6 +73,7 @@ per garantire una discussione efficace e produttiva.
 | Sviluppo             | Sviluppare il gioco, giocabile solo offline, senza dipendenze da server esterni.                               |
 | Sviluppo             | Partire da un nucleo di meccaniche solide, integrando orinalità che ne esaltino il valore.                     |
 | Tecnologia           | Selezionare le tecnologie di sviluppo (motore di gioco, strumenti grafici, middleware).                        |
+| Tecnologia           | Garantire testabilità delle componenti del gioco                                                               |
 
 ## Stato del progetto
 
@@ -89,6 +90,7 @@ per garantire una discussione efficace e produttiva.
 - Creare la musica e gli effetti sonori che si integrino con l'atmosfera del gioco.
 - Costruire una narrativa minimalle e coinvolgente.
 - Utilizzare tecnologie moderne per garantire qualità e buone prestazioni.
+- Sviluppare componenti testabili e modulari.
 - Inserire meccaniche solide e originali per attrarre il pubblico.
 - Costruire un'identità solida sui social media.
 - Localizzare il gioco nelle principali lingue internazionali.
