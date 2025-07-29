@@ -123,8 +123,7 @@
 
 È stato utilizzato l'**event storming** per identificare e chiarire i requisiti
 del progetto, sia funzionali che non funzionali. Questo approccio ha permesso di
-visualizzare le interazioni tra gli eventi del sistema e di definire in modo
-chiaro le aspettative del progetto.
+visualizzare gli elementi chiave che servono a comprendere le dinamiche del
+gioco, le meccaniche principali e gli aspetti di design.
 
-<iframe src="https://miro.com/app/board/uXjVJat9vbM=/"
-width="100%" height="650px" frameborder="0"></iframe>
+<iframe src="https://miro.com/app/board/uXjVJat9vbM=/" width="100%" height="650px" frameborder="0"></iframe>
