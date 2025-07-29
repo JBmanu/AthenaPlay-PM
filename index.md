@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "AthenaStudios S.R.L.S."
+  name: "AthenaStudios S.R.L."
   text: "AthenaPlay"
   tagline: Project Management
 
@@ -13,15 +13,10 @@ hero:
       link: report/0-contesto
 ---
 
-[//]: # (## Componenti del Gruppo)
+## AthenaStudios S.R.L.
 
-[//]: # ()
-[//]: # (- **Manuel Buizo**: juliomanuel.buizo@studio.unibo.it)
-
-[//]: # (- **Alice Alfonsi**: alice.alfonsi2@studio.unibo.it)
-
-[//]: # (- **Mara Pulighe**: mara.pulighe@studio.unibo.it)
-
-[//]: # (- **Corrado Stortini**: corrado.stortini2@studio.unibo.it)
-
-[//]: # (- **Alex Testa**: alex.testa@studio.unibo.it)
+AthenaStudios S.R.L. è una neo-azienda nel settore dei videogiochi, fondata 
+da un team di professionisti con esperienza nel settore videoludico e 
+competenze specifiche in game design, programmazione, grafica e marketing. 
+Il progetto si propone di sviluppare un videogioco innovativo e coinvolgente, 
+con l'obiettivo di posizionarsi nel mercato videoludico e attrarre investitori.
